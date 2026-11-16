@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-16",
+  "edition": "mattina",
+  "newsletters": 18,
+  "news": [
+    {
+      "k": "Caso Nvidia",
+      "title": "Nvidia, 140 mila firme per riportare Jensen Huang: anche Musk tra i firmatari",
+      "summary": "Una petizione online chiede al consiglio di Nvidia di reintegrare Jensen Huang, che si è dimesso da amministratore delegato dopo lo scandalo sulla presunta informatrice cinese. Ha superato le 140 mila firme in pochi giorni: oltre 7.000 firmatari dicono di essere dipendenti e fra i nomi c'è Elon Musk. Secondo il Financial Times, Huang sta valutando in privato un ritorno. Il consiglio non ha ancora risposto e sta scegliendo la società che cercherà il successore. Per ora guida il gruppo la direttrice finanziaria Colette Kress.",
+      "note": "Il link porta alla notizia delle dimissioni. Petizione e ipotesi di ritorno sono riportate da The Rundown AI.",
+      "source": "The Rundown AI · The Update",
+      "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-huang-resigns-amid-affair-scandals-board-names-cfo-colette-kress-interim-ceo-135801377.html"
+    },
+    {
+      "k": "Anthropic",
+      "title": "Anthropic lancia i nuovi Mythos e Fable alla vigilia della quotazione in Borsa",
+      "summary": "Anthropic ha rilasciato le nuove versioni dei suoi modelli più avanzati, con progressi dichiarati in programmazione, ragionamento e analisi delle immagini. Fable costa il 20% in meno e risponde più in fretta. Mythos resta ad accesso ristretto, riservato a clienti selezionati. Il lancio arriva a ridosso dello sbarco in Borsa: secondo Reuters il prezzo è fissato fra 70 e 78 dollari per azione, per una valutazione fino a 1.400 miliardi di dollari.",
+      "note": "I progressi dei modelli sono quelli dichiarati dall'azienda.",
+      "source": "The Update",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+      "k": "ChatGPT Wallet",
+      "title": "ChatGPT Wallet: gli agenti di OpenAI ora pagano gli acquisti, con conferma biometrica",
+      "summary": "OpenAI ha lanciato ChatGPT Wallet, che permette agli agenti di ChatGPT di completare un acquisto al posto dell'utente. La carta si salva una volta sola. L'agente prepara il carrello e si ferma prima di pagare: mostra negozio, totale e carta, e serve la conferma con il volto o l'impronta. Visa, Mastercard e American Express sostituiscono il numero reale con uno valido per quel solo acquisto, così né il negozio né l'agente lo vedono. Punti e tutele della carta restano.",
+      "note": "Per ora solo per gli abbonati Pro negli Stati Uniti, maggiorenni.",
+      "source": "There's An AI For That · What's Up in AI",
+      "url": null
+    },
+    {
+      "k": "Causa ai laboratori",
+      "title": "Quattro non profit fanno causa a OpenAI, Anthropic, Google, Meta e SpaceX",
+      "summary": "Quattro organizzazioni non profit che si occupano di sicurezza online e tutela dei consumatori hanno depositato un ricorso a San Francisco per fermare lo sviluppo e il rilascio dei modelli di AI più avanzati. Si appoggiano alla legge californiana contro le pratiche commerciali scorrette e citano gli allarmi sui rischi per l'umanità lanciati dagli stessi capi delle aziende.",
+      "note": "Nessun giudice ha ancora ordinato alcun blocco.",
+      "source": "The Update · The Hustle",
+      "url": "https://www.yahoo.com/news/politics/articles/openai-google-anthropic-hit-lawsuit-182328643.html"
+    },
+    {
+      "k": "AI che adula",
+      "title": "Un'AI sincera tiene la posizione nell'81,9% dei casi, ma piace meno",
+      "summary": "Ricercatori della Duke University hanno confrontato quattro versioni della stessa AI. Quella istruita a dare ragione a tutti ha tenuto la risposta giusta nell'8,7% dei casi quando l'utente insisteva. Quella sincera nell'81,9%. Poi 200 persone hanno parlato con una delle versioni su temi che sentivano. L'AI sincera è stata giudicata meno rispettosa e meno piacevole, e ha avuto meno fiducia anche della versione senza istruzioni.",
+      "note": "Lo studio non dice se pesi il contenuto o il tono della risposta.",
+      "source": "There's An AI For That",
+      "url": "https://arxiv.org/abs/2611.16722"
+    },
+    {
+      "k": "Agenti e voli",
+      "title": "United Airlines vieta agli assistenti AI non autorizzati di prenotare voli",
+      "summary": "La compagnia americana non permetterà agli assistenti di intelligenza artificiale non autorizzati di prenotare voli, fare il check-in o modificare gli account dei passeggeri. Teme acquisti indesiderati e uso improprio delle miglia quando i clienti affidano le proprie credenziali a un software. Il blocco vale sui suoi canali e anche tramite agenzie e comparatori. Gli agenti potranno comunque mostrare voli e tariffe.",
+      "note": "Per un analista del settore United vuole anche evitare un nuovo intermediario.",
+      "source": "The Update · What's Up in AI",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    },
+    {
+      "k": "Gemini 4 Hydrogen",
+      "title": "Gemini 4 Hydrogen arriva nella ricerca Google: 2,5 volte più veloce del predecessore",
+      "summary": "Google porta nel motore di ricerca, per tutti gli utenti, Gemini 4 Hydrogen, il modello pensato per gli agenti. Secondo l'azienda è 2,5 volte più veloce del predecessore; la distribuzione nel mondo è progressiva. È gratuito anche nell'app Gemini. Per mostrarlo Google ha diffuso un foglio di calcolo in cui migliaia di celle, usate come pixel, compongono una scena animata con un treno lungo la costa.",
+      "note": "La velocità è un dato dichiarato da Google.",
+      "source": "The Update · There's An AI For That",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "k": "Minori online",
+      "title": "Instagram estende a tutto il mondo l'AI che scova i minorenni con l'età falsa",
+      "summary": "Meta porta in tutti i Paesi il sistema che individua gli adolescenti che hanno dichiarato un'età adulta su Instagram. Il software analizza l'intero profilo: i post, i commenti, le foto e i video pubblicati. Su Facebook l'estensione è già in corso, mentre su Threads è prevista entro la fine dell'anno.",
+      "note": "La newsletter non indica quanto spesso il sistema sbagli.",
+      "source": "The Update",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+    },
+    {
+      "k": "Reddit Reviews",
+      "title": "Reddit Reviews: l'AI riassume i pareri degli utenti su circa 10 mila prodotti",
+      "summary": "Reddit lancia Reviews: un sistema di AI trasforma le discussioni degli utenti in recensioni su circa 10 mila prodotti. Chi cerca un articolo trova una sintesi di cosa dice la gente, con la quota di pareri positivi, misti e negativi. Le aziende non possono pagare per comparire. La funzione arriva nelle prossime settimane negli Stati Uniti; l'estensione ad altri Paesi è prevista nel 2027.",
+      "note": "",
+      "source": "The Update",
+      "url": "https://redditinc.com/news/introducing-reddit-reviews"
+    },
+    {
+      "k": "Quaderni di Gödel",
+      "title": "Claude analizza in pochi giorni 1.009 pagine di quaderni di Gödel: 663 risultati",
+      "summary": "Il matematico Kurt Gödel lasciò 16 quaderni dei primi anni Quaranta, 1.009 pagine scritte in gran parte in una stenografia tedesca che quasi nessuno legge più. Lo studioso finlandese Jan von Plato li trascriveva dal 2017, una pagina a settimana. A settembre ha dato a Claude le sue trascrizioni e i suoi libri: in pochi giorni ha avuto un'analisi di 650 pagine con 663 risultati dimostrati o abbozzati.",
+      "note": "Claude non ha decifrato la stenografia: ha lavorato sulle pagine già trascritte.",
+      "source": "There's An AI For That",
+      "url": null
+    }
+  ],
+  "tools": [
+    {
+      "k": "Podcast",
+      "title": "Snipd",
+      "summary": "App per ascoltare podcast che salva i passaggi migliori con un tocco sulle cuffie e poi ti manda il riassunto di quello che hai evidenziato.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "Wonder Tools",
+      "url": "https://www.snipd.app/"
+    },
+    {
+      "k": "Trascrizioni",
+      "title": "Otter.ai",
+      "summary": "Registra riunioni e lezioni e ne produce la trascrizione. Un lettore la usa per le ripetizioni dei figli: poi fa riassumere ogni lezione a un'AI per capire dove ci sono lacune.",
+      "note": "Avvisa sempre chi viene registrato.",
+      "source": "The Rundown AI",
+      "url": "https://otter.ai/"
+    },
+    {
+      "k": "Archivio",
+      "title": "Filently",
+      "summary": "Mette ordine in Google Drive: legge ogni nuovo file, gli dà un nome riconoscibile al posto di sigle come «Scan_0147862.pdf» e lo archivia nella cartella giusta.",
+      "note": "Deve poter leggere i file: valuta prima cosa contiene il tuo Drive.",
+      "source": "There's An AI For That",
+      "url": "https://filently.com/"
+    },
+    {
+      "k": "Documenti",
+      "title": "Fello AI",
+      "summary": "Un'unica app per Mac, iPhone e iPad che fa passare da ChatGPT a Claude a Gemini e crea direttamente in chat file veri di PowerPoint, Excel e Word.",
+      "note": "Solo per apparecchi Apple.",
+      "source": "There's An AI For That",
+      "url": "https://felloai.com/"
+    },
+    {
+      "k": "Grafica",
+      "title": "PosterMyWall",
+      "summary": "Disegna un volantino o un post per i social da una sola frase, per esempio la locandina di un mercatino, e permette di cambiarne lo stile con un clic.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "There's An AI For That",
+      "url": "https://www.postermywall.com/"
+    },
+    {
+      "k": "Video",
+      "title": "GoFaceless",
+      "summary": "Trasforma un argomento in un video breve finito, con voce narrante e sottotitoli. Quello che non convince si corregge scrivendolo in chat.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "There's An AI For That",
+      "url": "https://www.gofaceless.ai/"
+    },
+    {
+      "k": "Segnalibri",
+      "title": "Marqly",
+      "summary": "Gestore di segnalibri con AI: salvi pagine e link e poi li ritrovi facendo una domanda, invece di scorrere cartelle.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "What's Up in AI",
+      "url": "https://www.marqly.com/"
+    },
+    {
+      "k": "Foto",
+      "title": "Lap",
+      "summary": "Trova qualsiasi foto sul computer partendo da una descrizione e raggruppa le immagini della stessa persona. Lavora in locale, senza caricare nulla in rete.",
+      "note": "Gratuito e open source su GitHub.",
+      "source": "There's An AI For That",
+      "url": "https://github.com/julyx10/lap"
+    },
+    {
+      "k": "Test agenti",
+      "title": "Plurai Simulation",
+      "summary": "Mette alla prova un agente AI in un ambiente simulato, con utenti finti e strumenti copiati, senza toccare i sistemi reali. Ogni errore arriva con la conversazione che lo dimostra e una correzione proposta.",
+      "note": "Si può iniziare gratis. Serve usare Claude Code, Codex o GitHub Copilot.",
+      "source": "The Update",
+      "url": "https://simulation.plurai.ai/"
+    },
+    {
+      "k": "PC",
+      "title": "XDB Builder",
+      "summary": "Dici a cosa serve il computer e quanto vuoi spendere: sceglie componenti compatibili fra loro, con i prezzi aggiornati.",
+      "note": "Gratuito. Prezzi e negozi sono pensati per il mercato americano.",
+      "source": "XDA",
+      "url": "https://xdb.xda-developers.com/"
+    }
+  ],
+  "extra": [
+    {
+      "tag": "Attualità",
+      "k": "Ucraina",
+      "title": "Ucraina, la pace si allontana: Mosca alza i toni, abbattuti 1.336 droni in una notte",
+      "summary": "Saltano le ipotesi di avvicinamento a un cessate il fuoco. Il portavoce del Cremlino ha detto che senza un accordo con l'Europa la Russia userà la forza. Il ministro degli Esteri ha ribadito gli obiettivi del 2024: ritiro ucraino da Donbass, Kherson e Zaporizhzhia e rinuncia alla Nato. Nella notte le difese russe hanno abbattuto 1.336 droni, in uno dei più vasti attacchi ucraini dall'inizio della guerra. Il 19 novembre è previsto in Cina un incontro fra Putin, Xi e Trump.",
+      "note": "Il numero dei droni è quello dichiarato da Mosca.",
+      "source": "Sky TG24",
+      "url": "https://tg24.sky.it/mondo/2026/11/16/guerra-ucraina-russia-ultime-notizie-diretta"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Voli negli USA",
+      "title": "Stati Uniti, voli fermi per oltre quattro ore: più di 17 mila cancellazioni",
+      "summary": "Venerdì pomeriggio l'autorità americana dell'aviazione civile ha fermato quasi tutti i voli negli Stati Uniti per più di quattro ore, dopo un'interruzione delle comunicazioni del controllo del traffico aereo. Secondo i funzionari un router ha sovraccaricato il sistema durante un aggiornamento. Da venerdì i voli cancellati sono oltre 17 mila e i disagi continuano su molte tratte.",
+      "note": "",
+      "source": "The Hustle · Sky TG24",
+      "url": "https://tg24.sky.it/mondo/video/2026/11/15/caos-voli-usa-disagi-1140204"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Allarmi bomba",
+      "title": "Allarmi bomba nelle scuole, Meloni convoca le opposizioni a Palazzo Chigi",
+      "summary": "Dopo la raffica di email con falsi allarmi bomba che ha fatto evacuare migliaia di istituti, la presidente del Consiglio ha convocato i leader dell'opposizione a Palazzo Chigi, e nessuno si è tirato indietro. Secondo l'analisi di Sky TG24, alla premier il tavolo serve a condividere il rischio di azioni pensate per creare caos nel Paese.",
+      "note": "L'articolo completo è riservato agli abbonati.",
+      "source": "Sky TG24",
+      "url": "https://tg24.sky.it/politica/2026/11/15/allarmi-bomba-meloni-governo"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Udine",
+      "title": "Udine, allestita la camera ardente per l'ultimo saluto a Toni Capuozzo",
+      "summary": "A Udine è stata allestita la camera ardente per Toni Capuozzo, giornalista, inviato di guerra e volto storico dell'informazione italiana, conosciuto per i reportage dai principali scenari internazionali e per il racconto diretto dei conflitti. A rendergli omaggio familiari, amici, colleghi e cittadini.",
+      "note": "",
+      "source": "Messaggero Veneto",
+      "url": "https://www.messaggeroveneto.it/cronaca/lultimo-saluto-a-toni-capuozzo-allestita-a-udine-la-camera-ardente-owf4kqd5"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Sport",
+      "title": "Sci, Braathen vince lo slalom di Levi. A Torino Zverev apre il Masters con un successo",
+      "summary": "Dopo il gigante di Sölden, il brasiliano Pinheiro Braathen ha vinto anche lo slalom di Levi. Quinto Alex Vinatzer, che nella seconda manche ha recuperato 18 posizioni. A Torino Alexander Zverev ha aperto il Masters di tennis battendo in due set lo spagnolo Rafa Jódar, con 10 ace. Nel doppio femminile Errani e Paolini si sono qualificate da imbattute per la finale del torneo di fine stagione.",
+      "note": "La finale di Errani e Paolini era in programma domenica sera: il risultato non è incluso.",
+      "source": "Sky Sport",
+      "url": "https://sport.sky.it/altri-sport/sci/2026/11/15/coppa-mondo-sci-slalom-maschile-levi-risultati-oggi"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Crociere di lusso",
+      "title": "Crociere, la suite da 25 mila dollari a notte: le compagnie puntano sul lusso",
+      "summary": "Nel 2025 hanno fatto una crociera oltre 37 milioni di persone, record storico, e i tre maggiori operatori hanno incassato 54,4 miliardi di dollari. Ora le compagnie puntano su navi piccole, sotto i mille passeggeri. Le navi di lusso sono aumentate del 71% fra il 2020 e il 2025. Sulla nuova Prestige di Regent la suite su due piani costerà 25 mila dollari a notte.",
+      "note": "Non tutto funziona: la flotta di yacht di Ritz-Carlton ha perso 700 milioni di dollari dal 2017.",
+      "source": "The Hustle",
+      "url": null
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Testi scritti dall'AI",
+      "title": "Su LinkedIn il 41% dei post lunghi è scritto dall'AI, su Reddit il 13%",
+      "summary": "La società Pangram, che vende un rilevatore di testi artificiali, ha analizzato oltre un milione di post. LinkedIn è la piattaforma con più contenuti generati: il 30% dei post brevi e il 41% di quelli lunghi. Segue Medium con il 28% e il 31%. Reddit è la meno toccata, con il 3% dei post brevi e il 13% di quelli lunghi.",
+      "note": "I dati dipendono dal rilevatore di Pangram, che è anche il prodotto che l'azienda vende.",
+      "source": "The Hustle",
+      "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Senza dimora",
+      "title": "La Finlandia ha dimezzato le persone senza casa dal 2008",
+      "summary": "Dal 2008 la Finlandia applica il principio «Housing First», prima la casa, ed è riuscita a dimezzare il numero di persone senza dimora mentre nel resto d'Europa il fenomeno cresceva. Molti Paesi prendono ispirazione da quel modello. Dopo i tagli al welfare, però, l'approccio mostra qualche crepa.",
+      "note": "L'articolo completo è riservato agli abbonati.",
+      "source": "Sky TG24",
+      "url": "https://tg24.sky.it/mondo/2026/11/14/finlandia-persone-senza-fissa-dimora-housing-first"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Furti insoliti",
+      "title": "Dal water d'oro alla forma di Brie con il localizzatore: i furti più strani d'Inghilterra",
+      "summary": "Dopo la condanna di tre uomini per il furto di un water d'oro massiccio a 18 carati, la BBC ha raccolto altri crimini insoliti. Uno dei ladri aveva usato il water il giorno prima del colpo. A Harrogate un ristoratore, dopo una serie di furti, ha nascosto un localizzatore in una forma di Brie per risalire al ladro. C'è anche una banda che ha scavato un tunnel fino a un caveau.",
+      "note": "",
+      "source": "The English Breakfast",
+      "url": "https://www.bbc.com/news/articles/cqjdy5yrxpeo"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Lago dell'Alberone",
+      "title": "Nelle Valli del Natisone c'era un lago di 42 mila anni fa, e i mammut",
+      "summary": "Il geologo Andrea Mocchiutti ha presentato a San Pietro al Natisone la conferma dell'esistenza del lago quaternario dell'Alberone, ipotizzata nel 1908 dal geologo e speleologo Francesco Musoni, nato nella zona e sindaco del paese. Nelle valli, in quell'epoca, vivevano i mammut. L'annuncio è arrivato durante un convegno dedicato proprio a Musoni.",
+      "note": "",
+      "source": "Messaggero Veneto",
+      "url": "https://www.messaggeroveneto.it/cronaca/lago-alberone-friuli-scoperta-mammut-valli-natisone-era-glaciale-yibr2o8n"
+    }
+  ]
+}
