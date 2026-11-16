@@ -1,0 +1,8 @@
+{
+  "appId": "it.gervox.dailynewsletters",
+  "appName": "Daily Newsletters",
+  "webDir": "docs",
+  "backgroundColor": "#e8ebef",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}

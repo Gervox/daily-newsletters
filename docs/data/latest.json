@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-16",
+  "edition": "mattina",
+  "newsletters": 16,
+  "news": [
+    {
+      "k": "IPO Anthropic",
+      "title": "Anthropic punta a 64,35 miliardi con la quotazione del 19 novembre",
+      "summary": "Mindstream riporta che Anthropic vuole vendere 825 milioni di azioni a un prezzo fra 70 e 78 dollari. Al prezzo massimo sono 64,35 miliardi di dollari, con una valutazione di 1.400 miliardi. Le contrattazioni al Nasdaq dovrebbero partire il 19 novembre con il simbolo ANT. Sette grandi aziende tecnologiche hanno messo 26 miliardi. La newsletter cita anche una perdita netta di 104 miliardi di dollari.",
+      "note": "Sono cifre riportate da Mindstream, non confrontate con il prospetto.",
+      "source": "Mindstream",
+      "url": "https://www.mindstream.news/p/seven-tech-giants-walk-into-an-ipo"
+    },
+    {
+      "k": "AI che adula",
+      "title": "Un'AI sincera tiene la posizione nell'81,9% dei casi, ma piace meno",
+      "summary": "Ricercatori della Duke University hanno confrontato quattro versioni della stessa AI. Quella istruita a dare ragione a tutti ha tenuto la risposta giusta nell'8,7% dei casi quando l'utente insisteva. Quella sincera nell'81,9%. Poi 200 persone hanno parlato con una delle versioni su temi che sentivano. L'AI sincera è stata giudicata meno rispettosa e meno piacevole, e ha avuto meno fiducia anche della versione senza istruzioni.",
+      "note": "Lo studio non dice se pesi il contenuto o il tono della risposta.",
+      "source": "There's An AI For That",
+      "url": "https://arxiv.org/abs/2611.16722"
+    },
+    {
+      "k": "Fondi Mozilla",
+      "title": "Mozilla dà fino a 500.000 dollari a sette progetti AI, senza quote",
+      "summary": "La Mozilla Foundation finanzia sette progetti con fino a 500.000 dollari ciascuno in tre anni, senza prendere partecipazioni. I team ottengono anche l'accesso a un cluster di GPU condiviso. Serve un progetto già funzionante e con utenti attivi. La scadenza è venerdì 20 novembre alle 23:59, ora della costa del Pacifico. Tre progetti già finanziati: Tiles, un assistente che gira solo sul computer, CodeCarbon, che misura la CO2 del codice, e Family Intelligence, una memoria condivisa di famiglia che resta offline.",
+      "note": "Per chi ha solo un'idea è più adatta la borsa Fellowship.",
+      "source": "The Code",
+      "url": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/human-scale-ai/call-for-proposals/"
+    },
+    {
+      "k": "Nasdaq -5%",
+      "title": "Dopo il voto di midterm il Nasdaq perde più del 5%, circa 2.000 miliardi",
+      "summary": "I Democratici hanno ottenuto il controllo del Congresso e il Nasdaq è sceso di oltre il 5%, bruciando circa 2.000 miliardi di dollari di valore. Mindstream lega il calo ai piani per test indipendenti sull'AI, standard di responsabilità e regole per i centri dati. Nella stessa rassegna: Nvidia ha aperto un'indagine su un possibile aggancio del suo ex amministratore delegato da parte dell'intelligence cinese.",
+      "note": "Il nesso fra voto e ribasso è l'interpretazione di Mindstream.",
+      "source": "Mindstream",
+      "url": null
+    },
+    {
+      "k": "Siti più visitati",
+      "title": "ChatGPT è il quarto sito più visitato al mondo, Claude il ventunesimo",
+      "summary": "Google ha 108,9 miliardi di visite al mese e YouTube 60 miliardi, insieme quasi il doppio degli altri 38 siti della lista. ChatGPT è quarto con 8,23 miliardi, davanti a Instagram, Reddit e X. Claude, il concorrente più vicino, è ventunesimo con 1,6 miliardi.",
+      "note": "Dati della classifica di Visual Capitalist. Sono visite al sito, non utenti.",
+      "source": "Horizon AI",
+      "url": "https://www.visualcapitalist.com/ranked-worlds-40-most-visited-websites-2026/"
+    },
+    {
+      "k": "Cyborg e centauri",
+      "title": "Il 27% di chi usa l'AI delega tutto e smette di pensare",
+      "summary": "Il professor Karim Lakhani, della Harvard Business School, riprende uno studio con i consulenti di BCG. Divide chi usa l'AI in tre gruppi: i «cyborg», 60%, che lavorano a fianco della macchina; i «centauri», 14%, che le delegano compiti precisi e tengono il controllo; gli «auto-automatizzatori», 27%, che delegano tutto. Questi ultimi sono quelli che fanno più fatica, perché non valutano quello che torna. Il consiglio è non accettare la prima risposta e chiedere controargomenti.",
+      "note": "Le percentuali sommano 101, così come le riporta la newsletter.",
+      "source": "Horizon AI",
+      "url": null
+    },
+    {
+      "k": "Giudici AI",
+      "title": "La ginnastica valuta l'AI come giudice per Los Angeles 2028",
+      "summary": "La federazione mondiale di ginnastica è in trattative per portare ai Giochi di Los Angeles 2028 il sistema di giudizio di Fujitsu. Usa quattro telecamere per ogni attrezzo, ricostruisce l'esercizio in 3D e misura gli angoli delle articolazioni al grado. I risultati arrivano entro 15 secondi dall'atterraggio.",
+      "note": "È una trattativa, non un accordo firmato.",
+      "source": "Mindstream",
+      "url": null
+    },
+    {
+      "k": "Creativi e AI",
+      "title": "Il 78% dei creativi dice che l'AI li ha fatti crescere, il 47% ha lasciato uno strumento a metà",
+      "summary": "Il rapporto di Adobe sui creativi che usano l'AI dice che il 78% è cresciuto più in fretta. Il 47% ha abbandonato uno strumento a lavoro iniziato negli ultimi tre mesi, perché ottenere il risultato richiedeva troppa fatica. Nella stessa settimana, a Adobe MAX, l'assistente Creative Agent è arrivato in Photoshop, Premiere e Firefly ed esegue più passaggi da una frase.",
+      "note": "Sono risposte dichiarate dai creativi intervistati.",
+      "source": "Mindstream · Why Try AI",
+      "url": null
+    },
+    {
+      "k": "Costi AI",
+      "title": "Accenture mette in conto circa 29 dollari al mese per dipendente per Claude",
+      "summary": "Accenture finanzia centralmente l'accesso a Claude con circa 29 dollari al mese per ogni dipendente. Quello che eccede passa sui budget di progetto. Nella stessa rassegna: DeepSeek apre ai programmatori la sua ricerca web a 0,75 dollari ogni mille richieste, un sesto del costo dell'API di Brave Search, e Anthropic acquisisce la startup Opaque Systems per i suoi strumenti di controllo degli agenti.",
+      "note": "La cifra di Accenture è un'indicazione della newsletter.",
+      "source": "8020AI",
+      "url": null
+    },
+    {
+      "k": "Lanci della settimana",
+      "title": "Claude Meetings, Sheets e Whiteboards: la settimana di Anthropic",
+      "summary": "Claude Meetings entra nelle videochiamate del team e prepara documenti e lavagne dalla conversazione. Claude Sheets e Claude Whiteboards creano fogli e lavagne condivisi, esportabili in Excel o Miro. I connettori interattivi di Canva e Notion si aprono dentro Claude. Fra i lanci degli altri: Google Wallet collegato a Gemini, solo negli USA, e un modello di immagini open source di MiniMax che accetta fino a 16 immagini di riferimento.",
+      "note": "Elenco di una newsletter di riepilogo: la disponibilità dipende dal paese.",
+      "source": "Why Try AI",
+      "url": null
+    }
+  ],
+  "tools": [
+    {
+      "k": "Foto",
+      "title": "UpSynth",
+      "summary": "Ingrandisce e restaura foto vecchie o sfocate e permette di correggere solo i punti venuti male, senza toccare il resto dell'immagine.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "There's An AI For That",
+      "url": "https://taaft.co/upsynth-r"
+    },
+    {
+      "k": "Schermo",
+      "title": "Squint",
+      "summary": "Disegni un riquadro sullo schermo e fai una domanda all'AI su quella parte: un grafico, una tabella, un pezzo di codice.",
+      "note": "Controlla cosa vede dello schermo prima di usarlo con documenti riservati.",
+      "source": "Horizon AI",
+      "url": "https://heysquint.com/"
+    },
+    {
+      "k": "Prompt",
+      "title": "Prompt Generator for Images",
+      "summary": "Scrivi un'idea semplice, per esempio «un tramonto sul mare», e restituisce un testo ricco di dettagli e inquadrature, pronto da incollare in qualsiasi generatore di immagini.",
+      "note": "Gratuito e senza registrazione, secondo la newsletter.",
+      "source": "There's An AI For That",
+      "url": "https://free.theresanaiforthat.com/@maxcasu/prompt-enhancer-generator/"
+    },
+    {
+      "k": "Riassunti",
+      "title": "ToneSummary",
+      "summary": "Trasforma il link di un articolo in un riassunto nel tono che scegli, per esempio colloquiale o sarcastico, così una lettura lunga richiede un minuto.",
+      "note": "Un riassunto non sostituisce l'articolo: usalo per decidere cosa leggere.",
+      "source": "There's An AI For That",
+      "url": "https://taaft.co/tonesummary-r"
+    },
+    {
+      "k": "Corsi",
+      "title": "Honen",
+      "summary": "Costruisce un corso intero a partire dai tuoi appunti o da un'idea, con quiz e un tutor AI che cambia formato quando qualcosa non si capisce.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "There's An AI For That",
+      "url": "https://taaft.co/honen-r"
+    },
+    {
+      "k": "Slide",
+      "title": "Decksy",
+      "summary": "Crea presentazioni più in fretta partendo da un testo o da un argomento.",
+      "note": "Senza prezzi indicati: da verificare quanto sia personalizzabile.",
+      "source": "Horizon AI",
+      "url": "https://decksyai.com/"
+    },
+    {
+      "k": "AI in locale",
+      "title": "Tiles",
+      "summary": "Assistente privato per Mac e Linux: i modelli girano sul tuo computer e le chat non passano da un server. Le chat si sincronizzano fra i tuoi apparecchi con cifratura.",
+      "note": "È in versione Alpha: va provato, non ancora usato per lavoro.",
+      "source": "The Code",
+      "url": "https://tiles.run/"
+    },
+    {
+      "k": "Codice",
+      "title": "CodeCarbon",
+      "summary": "Pacchetto Python open source che misura l'elettricità usata da CPU, GPU e memoria mentre il codice gira e la converte in CO2 secondo la rete elettrica locale.",
+      "note": "Gratuito e mantenuto da volontari. Serve saper lanciare script Python.",
+      "source": "The Code",
+      "url": "https://codecarbon.io/"
+    },
+    {
+      "k": "Chat",
+      "title": "OpenClaw Easy",
+      "summary": "Porta un assistente AI dentro WhatsApp, Telegram o Discord tramite un'app per il computer. Gira su un modello locale gratuito, senza chiave API.",
+      "note": "Gratuito e open source. L'installazione richiede un po' di pratica.",
+      "source": "There's An AI For That",
+      "url": "https://github.com/openclaw-easy/openclaw-easy-desktop"
+    },
+    {
+      "k": "Sport",
+      "title": "Runsy",
+      "summary": "Organizza ogni settimana di corsa intorno al tuo obiettivo, per esempio una prima 5 km o una maratona, e riorganizza il piano quando scrivi al coach che hai saltato un giorno.",
+      "note": "Prezzi non indicati nella newsletter.",
+      "source": "There's An AI For That",
+      "url": "https://taaft.co/runsy-r"
+    }
+  ],
+  "extra": [
+    {
+      "tag": "Curiosità",
+      "k": "Lago dell'Alberone",
+      "title": "Nelle Valli del Natisone c'era un lago di 42 mila anni fa, e i mammut",
+      "summary": "Il geologo Andrea Mocchiutti ha presentato a San Pietro al Natisone la conferma del lago quaternario dell'Alberone, ipotizzato nel 1908 dal geologo Francesco Musoni, nato nella zona. Nelle valli, in quell'epoca, vivevano i mammut.",
+      "note": "",
+      "source": "Messaggero Veneto",
+      "url": null
+    },
+    {
+      "tag": "Attualità",
+      "k": "Truffe",
+      "title": "Udine, due arresti per la truffa del finto carabiniere: 250 mila euro a una donna di 86 anni",
+      "summary": "A Udine sono stati arrestati due uomini per la truffa del finto carabiniere, che ha portato via 250 mila euro a una donna di 86 anni. Nella stessa edizione: i carabinieri di Latisana hanno denunciato cinque automobilisti per guida in stato di ebbrezza.",
+      "note": "",
+      "source": "Messaggero Veneto",
+      "url": null
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Ruoli e AI",
+      "title": "Le aziende cambiano la macchina e lasciano il mansionario com'era",
+      "summary": "Kyndryl ha sentito 3.700 dirigenti: quasi la metà ha cambiato in modo sostanziale la strategia sull'AI nell'ultimo anno, poco più di uno su quattro ha aggiornato formalmente ruoli e responsabilità. Capgemini ha sentito 500 dirigenti di grandi gruppi: solo un terzo sa stimare con sicurezza i costi indiretti, come le ore di controllo umano e il lavoro da rifare.",
+      "note": "I numeri sono risposte dei dirigenti, su aziende grandi.",
+      "source": "Giando Santamaria",
+      "url": null
+    },
+    {
+      "tag": "Attualità",
+      "k": "Superbonus",
+      "title": "Progettisti e imprese contro la rateizzazione dei crediti del Superbonus",
+      "summary": "Progettisti e imprese edili prendono posizione contro la rateizzazione dei crediti del Superbonus, mentre la Manovra di bilancio è in discussione.",
+      "note": "",
+      "source": "Edilportale",
+      "url": "https://www.edilportale.com/"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Hackathon",
+      "title": "Da «non sono esperta» a nove prototipi in due ore: l'hackathon dei giuristi",
+      "summary": "A Milano nove squadre di giuristi hanno costruito in circa due ore agenti AI su tre tracce. Le lezioni: disegnare il flusso su un foglio prima di toccare lo strumento, spezzare il lavoro in passaggi invece di un unico prompt lungo, scrivere per due lettori diversi.",
+      "note": "Il vincitore non è stato ancora annunciato.",
+      "source": "Gladiatori Digitali",
+      "url": null
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Sport e AI",
+      "title": "Quattro telecamere per attrezzo: come un'AI giudica un esercizio di ginnastica in 15 secondi",
+      "summary": "Il sistema di Fujitsu allo studio per Los Angeles 2028 ricostruisce l'esercizio in 3D con quattro telecamere per ogni attrezzo e misura gli angoli delle articolazioni al grado, restituendo il punteggio entro 15 secondi dall'atterraggio.",
+      "note": "È una trattativa, non un accordo firmato.",
+      "source": "Mindstream",
+      "url": null
+    }
+  ]
+}

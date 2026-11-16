@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.env
+consegna/
+android/local.properties
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+ios/App/build/
+ios/DerivedData/
