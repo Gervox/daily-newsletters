@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-18",
+  "edition": "mattina",
+  "newsletters": 25,
+  "news": [
+    {
+      "k": "Chip e Cina",
+      "title": "Chip AI, gli Usa chiudono la scorciatoia dei data center esteri per le aziende cinesi",
+      "summary": "Il dipartimento del Commercio americano ha pubblicato una norma provvisoria contro le aziende cinesi che affittano chip AI avanzati in data center all'estero. I fornitori devono avere una licenza per ogni data center, ovunque sia, che serva imprese con sede in Cina. Serve un permesso anche per spedire chip avanzati verso Singapore, Malaysia, Thailandia, Indonesia e Brasile. Gli analisti si aspettano una spinta verso i processori cinesi, come quelli di Huawei.",
+      "note": "Le regole entrano in vigore tra 90 giorni; le fonti divergono su alcune bozze precedenti, per il testo ufficiale serve il Federal Register.",
+      "source": "Humans at Magica",
+      "url": "https://thenextweb.com/news/us-remote-access-ai-chips-rule-china-singapore-malaysia"
+    },
+    {
+      "k": "Attacchi con l'AI",
+      "title": "Google scopre un agente AI che trasforma le correzioni in attacchi, senza umani",
+      "summary": "Il gruppo di Google che studia le minacce informatiche ha trovato su un server esposto exploit_agent, un sistema usato da attaccanti. Confronta il codice di programmi web prima e dopo le correzioni di sicurezza, individua il difetto, scrive l'attacco e lo lancia senza una persona nel mezzo. Google lo descrive nel rapporto del 16 novembre. Questi strumenti sono veloci ma rumorosi: lasciano tracce evidenti e sono quindi più facili da scoprire.",
+      "note": "«Prima volta» è la formula di Google: altre fonti avvertono che non esclude tentativi precedenti. Nessun gruppo è stato indicato come autore.",
+      "source": "TAAFT",
+      "url": "https://hackread.com/google-ai-agent-turning-security-patches-exploits/"
+    },
+    {
+      "k": "Fisica e AI",
+      "title": "GPT-6 Astra risolve 49 problemi inediti di fisica teorica su 50, a meno di 3 dollari l'uno",
+      "summary": "Un gruppo coordinato da Suvrat Raju, fisico dell'ICTS di Bangalore, ha raccolto 50 problemi di fisica teorica mai pubblicati, che a un esperto richiedono circa un giorno di lavoro. GPT-6 Astra ne ha risolti 49, con un solo comando e un costo medio sotto i 3 dollari a risposta. Raju dice che la prova era già saturata prima di uscire e che non ne farà una seconda versione.",
+      "note": "È un preprint non ancora rivisto da altri esperti; il costo per problema varia da 2,40 a 3 dollari secondo le fonti.",
+      "source": "Understanding AI",
+      "url": "https://officechai.com/ai/gpt-6-astra-solves-49-50-unpublished-physics-research-problems-under-theophyseval-benchmark-for-3-a-problem/"
+    },
+    {
+      "k": "Armi autonome",
+      "title": "Armi autonome, a Ginevra Usa e Russia dicono no a regole vincolanti",
+      "summary": "Alla conferenza di Ginevra sulla Convenzione su certe armi convenzionali, aperta il 16 novembre e in corso fino al 20, la maggior parte degli Stati chiede norme obbligatorie sui sistemi che scelgono il bersaglio senza un umano. Stati Uniti e Russia si oppongono a strumenti vincolanti e preferiscono linee guida; secondo la newsletter anche Israele. Le decisioni si prendono per consenso, quindi chi è contrario può bloccare tutto.",
+      "note": "Sulla posizione di Israele ho trovato poche fonti oltre alla newsletter; quella di Stati Uniti e Russia è riportata da Reuters.",
+      "source": "The Update",
+      "url": "https://it.euronews.com/2026/11/16/onu-a-ginevra-i-paesi-discutono-regole-per-i-robot-killer-e-le-armi-autonome"
+    },
+    {
+      "k": "Siti infettati",
+      "title": "Optimizely: codice dannoso su 178 organizzazioni, tra cui Zoom, GitLab e BBC",
+      "summary": "Un attaccante è riuscito a inserire codice dannoso negli script che Optimizely distribuisce ai clienti dalla propria rete di consegna. Secondo i ricercatori, il codice era in 188 frammenti legati a 178 organizzazioni, tra cui Zoom, GitLab e BBC: sostituiva gli indirizzi dei portafogli di criptovalute e rubava i dati delle carte di pagamento. Chi usa Optimizely Web dovrebbe controllare gli script dei propri progetti.",
+      "note": "Le fonti parlano di 178-186 siti e di un attacco ancora in corso; non ho trovato una dichiarazione ufficiale di Optimizely.",
+      "source": "The Code",
+      "url": "https://www.stepsecurity.io/blog/optimjack-optimizely-hosted-scripts-crypto-clipper-card-skimmer"
+    },
+    {
+      "k": "Mac e agenti AI",
+      "title": "macOS 27.3 in beta: più controlli sull'accesso completo al disco per gli agenti AI",
+      "summary": "Con la beta di macOS 27.3 Apple cambia il modo in cui le app, compresi gli agenti AI, ottengono l'accesso completo al disco. Si può concedere l'accesso a una sola cartella o chiedere il consenso a ogni uso, ci sono limiti su quali app ne possono controllare altre e compare un indicatore nella barra dei menu quando un programma ne comanda un altro. Le app che hanno già il permesso lo mantengono.",
+      "note": "È una versione di prova: i dettagli possono cambiare prima del rilascio finale.",
+      "source": "The Update · Humans at Magica",
+      "url": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/"
+    },
+    {
+      "k": "Sicurezza minori",
+      "title": "OpenAI presenta con NCMEC uno strumento per scovare immagini di abusi su minori",
+      "summary": "OpenAI ha presentato un classificatore di immagini, sviluppato con il centro americano per i minori scomparsi e sfruttati (NCMEC), che riconosce segni di abuso anche in immagini mai viste, comprese quelle generate dall'AI. Nei primi test segnala il 48% di immagini in meno da rivedere trovando lo stesso numero di abusi. Su ChatGPT chi cerca questo materiale riceve un avviso e 24 ore di sospensione; con le recidive l'account può essere chiuso.",
+      "note": "Il dato del 48% viene dai test iniziali di OpenAI, non verificati da terzi; lo strumento è gratuito per organizzazioni selezionate.",
+      "source": "Mindstream · Humans at Magica",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+    },
+    {
+      "k": "Claude Meetings",
+      "title": "Anthropic lancia in beta Claude Meetings: l'assistente entra nelle videochiamate",
+      "summary": "Claude Meetings è una funzione in beta che porta Claude nelle videochiamate come partecipante visibile: prende appunti e azioni da fare, può creare documenti e lavagne mentre si parla e prepara un riepilogo. Ogni riunione ha una pagina su claude.ai con note e trascrizione, senza audio. È riservato ai piani Team ed Enterprise e, per ora, a Google Meet; di default Claude non entra nelle chiamate con ospiti esterni.",
+      "note": "In beta note, trascrizioni e risposte sono gratuite; i documenti restano gratuiti fino al 10 febbraio 2027, dato della newsletter.",
+      "source": "AI Toast",
+      "url": "https://itbrief.co.uk/story/anthropic-launches-claude-meetings-for-live-video-calls"
+    },
+    {
+      "k": "Google Maps",
+      "title": "Google Maps, Ask Maps pianifica viaggi giorno per giorno e cerca appuntamenti con l'AI",
+      "summary": "Google ha aggiunto a Ask Maps gli itinerari giorno per giorno, con tappe numerate sulla mappa, consigli e dati in tempo reale su traffico e orari, da condividere o esportare in Google Docs da computer. Chi cerca un appuntamento, per esempio dal parrucchiere o dal meccanico, può vedere gli orari liberi dei locali vicini. Le novità arrivano su Android e iOS.",
+      "note": "La ricerca degli appuntamenti parte prima solo negli Stati Uniti; i 30 Paesi europei citati dalla newsletter non risultano nel post di Google.",
+      "source": "AI Toast",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+    },
+    {
+      "k": "Salute e AI",
+      "title": "Apple lancia con OpenEvidence uno studio sull'AI per la salute, fino a 200.000 persone",
+      "summary": "Apple ha lanciato negli Stati Uniti l'Apple Health AI Usage Study, con OpenEvidence. Gli adulti dai 21 anni possono fare domande di salute e ricevere risposte con citazioni cliniche, valutarle e compilare sondaggi mensili; si possono condividere anche dati di HealthKit. Lo studio dura più di 12 mesi. Apple dice che i dati non servono ad addestrare modelli e che OpenEvidence cancella domande e risposte entro 24 ore.",
+      "note": "Solo negli Usa; i requisiti sul modello di iPhone variano tra le fonti. Non serve a fare diagnosi.",
+      "source": "AI Toast · The Hustle",
+      "url": "https://www.mobihealthnews.com/news/apple-launches-research-study-openevidence"
+    }
+  ],
+  "tools": [
+    {
+      "k": "Tempo",
+      "title": "Dayflow",
+      "summary": "App gratuita e open source per Mac che registra lo schermo e usa l'AI per costruire una cronologia della giornata, con i riassunti di cosa hai fatto ora per ora. I dati restano sul Mac e puoi scegliere modelli locali; esporta in Markdown.",
+      "note": "Se scegli un servizio cloud, alcune schermate possono essere inviate a quel servizio.",
+      "source": "TAAFT",
+      "url": "https://github.com/JerryZLiu/Dayflow"
+    },
+    {
+      "k": "Casa smart",
+      "title": "HA-MCP",
+      "summary": "Server open source che collega Claude, ChatGPT e altri assistenti AI a Home Assistant: puoi chiedere di creare una modalità film o di capire perché un'automazione ha smesso di funzionare. Si installa come componente di Home Assistant o con Docker.",
+      "note": "Progetto non ufficiale; con gli assistenti nel cloud serve un indirizzo https raggiungibile da fuori casa.",
+      "source": "TAAFT",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "k": "Video",
+      "title": "HeyGen",
+      "summary": "Servizio per creare video con avatar che parlano al posto tuo. Il nuovo modello Avatar 6 legge il copione e adatta gesti ed espressioni; impara da una foto o da un video di al massimo 30 secondi.",
+      "note": "Il dato per cui l'84% non distingue l'avatar dal vero è un test dichiarato da HeyGen.",
+      "source": "HeyGen",
+      "url": "https://www.heygen.com/models/heygen-avatar-6"
+    },
+    {
+      "k": "Lavoro",
+      "title": "Jobright",
+      "summary": "Assistente AI per cercare lavoro: propone le offerte adatte al tuo profilo, adatta il curriculum a ogni annuncio e compila in automatico le candidature. Ha anche le app per iPhone e Android.",
+      "note": "Prezzi non verificati; le recensioni sono miste.",
+      "source": "AI Toast",
+      "url": "https://jobright.ai/"
+    },
+    {
+      "k": "Curriculum",
+      "title": "Kickresume",
+      "summary": "Crea curriculum e lettere di presentazione con l'AI, usando modelli personalizzabili pensati per i sistemi di selezione automatica. Include un controllo del curriculum e un creatore di sito personale.",
+      "note": "Le funzioni di scrittura AI sono nel piano a pagamento; la prova gratuita è limitata.",
+      "source": "AI Toast",
+      "url": "https://www.kickresume.com/"
+    },
+    {
+      "k": "Candidature",
+      "title": "Eztrackr",
+      "summary": "Estensione per Chrome e app web che salva con un clic gli annunci di lavoro da LinkedIn, Indeed e altri siti e li ordina in una bacheca a colonne, dall'invio all'assunzione. Ha note, contatti e strumenti AI per lettere e curriculum.",
+      "note": "Formula con piano gratuito; limiti e prezzi da controllare.",
+      "source": "AI Toast",
+      "url": "https://chromewebstore.google.com/detail/eztrackr-supercharge-your/kdpbamlhffmfbgglmaedhopenkpgkfdg"
+    },
+    {
+      "k": "Ricerca",
+      "title": "thesify",
+      "summary": "Rivede il tuo articolo scientifico sezione per sezione come farebbe un revisore severo, con commenti collegati al passaggio esatto e indicazioni per correggere. Non scrive al posto tuo e non inventa citazioni.",
+      "note": "È a pagamento (circa 24,95 euro al mese per tre revisioni); la prova gratuita non è chiara.",
+      "source": "TAAFT",
+      "url": "https://www.thesify.ai/"
+    },
+    {
+      "k": "Testi",
+      "title": "Pangram",
+      "summary": "Rilevatore di testi scritti con l'AI: stima se un testo è scritto da una persona, dall'AI o dall'AI con modifiche umane. Ha un piano gratuito per provarlo.",
+      "note": "L'accuratezza dichiarata (oltre il 99%) viene dall'azienda; per le recensioni il piano gratuito vale circa 2.000 parole al giorno.",
+      "source": "Ruben Hassid",
+      "url": "https://www.pangram.com/"
+    },
+    {
+      "k": "Marketing",
+      "title": "SE Visible",
+      "summary": "Mostra se ChatGPT, Gemini, AI Mode, AI Overviews e Perplexity citano il tuo marchio o un concorrente quando gli utenti chiedono un consiglio, con visibilità, quota di citazioni e posizione media. Claude è indicato come in arrivo.",
+      "note": "A pagamento: i prezzi riportati sono discordanti, da circa 99 a 189 dollari al mese.",
+      "source": "TAAFT",
+      "url": "https://visible.seranking.com/"
+    },
+    {
+      "k": "Corsi",
+      "title": "CMU CS Learn",
+      "summary": "Sito di Carnegie Mellon con lezioni di informatica gratuite, ora su YouTube, da seguire con i tuoi tempi. Molte riguardano l'AI, come il machine learning; un corso sugli agenti è in arrivo. Sono annunciati corsi gratuiti con quiz e un tutor AI.",
+      "note": "Quiz e tutor AI sono annunciati ma non ancora disponibili.",
+      "source": "TAAFT",
+      "url": "https://www.cs.cmu.edu/learn/"
+    }
+  ],
+  "extra": [
+    {
+      "tag": "Attualità",
+      "k": "UniCredit e Commerz",
+      "title": "L'Ue approva senza condizioni l'acquisizione di Commerzbank da parte di UniCredit",
+      "summary": "La Commissione europea ha dato il via libera, senza condizioni, all'acquisizione di Commerzbank da parte di UniCredit, e anche la Federal Reserve americana ha approvato l'operazione. La commissaria Ribera ha detto che il sì dimostra che si può rafforzare il settore bancario europeo tutelando la concorrenza. L'offerta pubblica di scambio è ancora in corso: il consiglio di Commerzbank ha raccomandato agli azionisti di respingerla e Berlino chiede garanzie.",
+      "note": "La cifra di 45 miliardi di euro data dalla newsletter non l'ho trovata in altre fonti.",
+      "source": "The Update",
+      "url": "https://it.euronews.com/2026/11/16/ue-approva-lacquisizione-di-commerzbank-da-parte-di-unicredit"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Hub rimpatri",
+      "title": "Cinque Paesi Ue annunciano un centro per i rimpatri in Ruanda, previsto per il 2027",
+      "summary": "Germania, Austria, Danimarca, Paesi Bassi e Grecia hanno annunciato il 16 novembre l'intenzione di aprire insieme in Ruanda il primo centro per i rimpatri fuori dall'Unione europea. Dovrebbe ospitare i richiedenti asilo respinti, con decisioni di rimpatrio già esecutive. I dettagli sono ancora in trattativa e i costi non sono noti. Diverse organizzazioni non governative si oppongono e Euronews segnala dubbi sulla compatibilità con il diritto europeo.",
+      "note": "Secondo la newsletter la fase di prova riguarderebbe circa 100 persone: non l'ho trovato in altre fonti.",
+      "source": "The Update",
+      "url": "https://it.euronews.com/2026/11/16/5-paesi-ue-vogliono-mandare-in-ruanda-i-migranti-irregolari-ma-forse-non-e-compatibile-con"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Via D'Amelio",
+      "title": "Strage di via D'Amelio: l'ex capo della Polizia De Gennaro è indagato per depistaggio",
+      "summary": "La Procura di Caltanissetta ha iscritto nel registro degli indagati l'ex capo della Polizia Gianni De Gennaro, nell'inchiesta sul depistaggio dopo la strage di via D'Amelio, in cui morì il giudice Paolo Borsellino. Secondo i magistrati avrebbe cercato di impedire al collaboratore di giustizia Salvatore Contorno di parlare con gli inquirenti e di nascondere documenti sul suo arresto del 1989. La sua abitazione è stata perquisita.",
+      "note": "È un'indagine, non una condanna. La richiesta d'arresto citata dalla newsletter è riportata da una sola testata (Domani).",
+      "source": "Sky TG24 Insider",
+      "url": "https://www.open.online/2026/11/16/borsellino-ex-capo-polizia-gianni-de-gennaro-indagato-depistaggio/"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Processo Natisone",
+      "title": "Natisone, l'ex comandante Maiolo in aula: «Attivati i mezzi necessari»",
+      "summary": "Martedì 17 novembre, nel processo per la tragedia del Natisone, davanti al giudice Daniele Faleschini Barnaba, sono stati ascoltati i testimoni delle difese dei quattro imputati: tre vigili del fuoco e un infermiere della Sores. L'ex comandante dei vigili del fuoco di Udine, Alberto Maiolo, ha ribadito che il concetto di «evoluzione sanitaria» non riguarda la sala operativa dei vigili del fuoco, che si occupano solo di soccorso tecnico.",
+      "note": "Non ho trovato l'articolo originale online: i dati vengono dalla newsletter del Messaggero Veneto.",
+      "source": "Messaggero Veneto",
+      "url": null
+    },
+    {
+      "tag": "Attualità",
+      "k": "Euro 2028",
+      "title": "L'Italia sarà testa di serie al sorteggio per Euro 2028, il 6 dicembre a Belfast",
+      "summary": "Si chiude la finestra delle nazionali e il piazzamento in Nations League assicura all'Italia un posto tra le teste di serie nel sorteggio delle qualificazioni a Euro 2028, in programma domenica 6 dicembre a Belfast. Secondo Sky Sport Insider gli azzurri saranno in prima fascia, evitando le avversarie più forti come Francia, Spagna, Inghilterra e Germania; le difficoltà potrebbero arrivare dalla seconda urna.",
+      "note": "Il link conferma la data del sorteggio e il ruolo di testa di serie; la prima fascia è riportata dalla newsletter.",
+      "source": "Sky Sport Insider",
+      "url": "https://www.lasicilia.it/news/sport/3079697/qualificazioni-euro-2028-l-italia-sara-testa-di-serie-al-sorteggio-del-6-dicembre-a-belfast.html"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Live shopping",
+      "title": "Il live shopping cresce: Whatnot vale 20 miliardi e i marchi vendono in diretta",
+      "summary": "Le vendite in diretta video stanno diventando un canale vero. Whatnot, app di aste dal vivo, ha chiuso in agosto un round da 545 milioni di dollari che la valuta 20 miliardi, quasi il doppio di un anno prima. Secondo The Hustle, il marchio di integratori Grüns trasmette ogni giorno da uno studio dedicato, con aste su TikTok, e i fan tornano ogni giorno; anche Tarte, Crocs e Gap puntano sul live a Natale.",
+      "note": "Il link conferma i dati di Whatnot; quelli su Grüns, TikTok Shop e sulle campagne dei marchi sono riportati dalla newsletter.",
+      "source": "The Hustle",
+      "url": "https://www.tubefilter.com/2026/08/07/whatnot-series-g-funding-round-545-million-live-shopping/amp/"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Data center",
+      "title": "Harvard: 403 grandi data center americani usano l'1,8% dell'elettricità del Paese",
+      "summary": "Uno studio della Harvard T.H. Chan School of Public Health, pubblicato su Nature Sustainability, ha stimato i consumi di 403 grandi data center americani tra maggio 2024 e aprile 2025: circa l'1,8% dell'elettricità degli Stati Uniti, per il 54% prodotta con combustibili fossili. Le emissioni sono stimate in 26-28 milioni di tonnellate di CO2, da due a tre volte più di una stima precedente. Quattro Stati, Virginia, Oregon, Ohio e Iowa, concentrano più della metà dei consumi.",
+      "note": "Le fonti danno cifre diverse per la CO2 (25,7 o 28 milioni di tonnellate); lo studio non distingue i data center per l'AI da quelli generici.",
+      "source": "The Hustle",
+      "url": "https://spectrumnews1.com/ky/louisville/environment/2026/11/16/harvard-study-u-s--data-center-carbon-emissions"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "James Bond",
+      "title": "Robert Pattinson sarà il nuovo James Bond: lo annuncia Amazon MGM",
+      "summary": "Amazon MGM Studios ha annunciato il 16 novembre che Robert Pattinson sarà il prossimo James Bond, il settimo attore a interpretare la spia britannica e il primo dopo che Amazon ha preso in mano la serie. Il film, ancora senza titolo, sarà diretto da Denis Villeneuve su una sceneggiatura di Steven Knight. Non sono stati comunicati una data di uscita né altri nomi del cast.",
+      "note": "Una fonte indica l'inizio delle riprese l'anno prossimo; non c'è una data ufficiale.",
+      "source": "Mindstream",
+      "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Pesci di Roku",
+      "title": "Roku toglie lo storico acquario salvaschermo dopo la vendita a Fox: l'autore non rinnova",
+      "summary": "Dal 1° dicembre sui dispositivi Roku sparirà Aquatic Life, l'acquario animato usato come salvaschermo, sostituito da Roku City, che ha la pubblicità. L'autore, Jim Sachs, ha deciso di non rinnovare la licenza dopo l'acquisto di Roku da parte di Fox. Secondo la newsletter ne ricavava circa 80 mila dollari l'anno. L'acquario resta disponibile per Windows, macOS, iOS e Android.",
+      "note": "Roku non ha collegato pubblicamente la fine del salvaschermo all'acquisizione.",
+      "source": "The Hustle",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/11/a-fan-favourite-aquarium-screensaver-is-leaving-roku"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Marie Curie",
+      "title": "Marie Curie non brevettò il radio: «È un elemento, appartiene a tutti»",
+      "summary": "Nel 1920 l'editrice americana Marie Meloney andò a trovare Marie Curie a Parigi e le chiese dei diritti sui brevetti del radio, allora la sostanza più cara del mondo. Curie rispose che non c'erano brevetti: lei e Pierre avevano lavorato per la scienza e il radio non doveva arricchire nessuno. Il suo laboratorio ne conservava poco più di un grammo.",
+      "note": "La frase esatta varia tra le fonti: «appartiene al popolo» oppure «a tutti».",
+      "source": "Glasp",
+      "url": "https://chemistryworld.com/opinion/it-belongs-to-the-people/7420.article"
+    }
+  ]
+}
