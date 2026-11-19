@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-19",
+  "edition": "mattina",
+  "newsletters": 28,
+  "news": [
+    {
+      "k": "Borsa e Anthropic",
+      "title": "Anthropic si quota a 83 dollari per azione e raccoglie 81 miliardi, record per una IPO",
+      "summary": "Anthropic ha fissato il prezzo della quotazione a 83 dollari per azione, sopra la forchetta di 70-78 dollari, e raccoglie circa 81 miliardi di dollari con l'offerta più grande mai fatta in Borsa. Le azioni sono attese al Nasdaq con il simbolo ANT da giovedì 19 novembre. Amazon e Google avranno insieme poco meno del 30% del capitale, in azioni senza diritto di voto, e Google si impegna a comprarne per 10 miliardi in un collocamento riservato.",
+      "note": "Le quote di Amazon e Google variano fra le fonti, dal 28% a poco più del 29%; la valutazione di circa 1.500 miliardi di dollari è una stima di Bloomberg.",
+      "source": "The Update · Understanding AI",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+      "k": "Nuovi modelli OpenAI",
+      "title": "OpenAI lancia GPT-6.2 Astra e Sol: prezzi più bassi, ma i primi test sono tiepidi",
+      "summary": "OpenAI ha presentato il 17 novembre GPT-6.2 Astra, il modello per i lavori più difficili, e GPT-6.2 Sol, più economico per l'uso quotidiano. Astra costa 8 dollari per milione di token in ingresso e 40 in uscita, il 20% in meno del predecessore; Sol resta a 2 e 10 dollari. Sono disponibili in ChatGPT Work, Codex e API. Nella classifica indipendente di Artificial Analysis Astra è secondo, dietro Claude Fable 5.2, ma vari sviluppatori lo giudicano deludente nella scrittura e nel codice.",
+      "note": "Classifica e giudizi vengono dalle newsletter e da commenti di singoli sviluppatori; prezzi e disponibilità sono sulla pagina di OpenAI.",
+      "source": "Mindstream · The Rundown AI · Horizon AI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+      "k": "Nvidia",
+      "title": "Nvidia, il consiglio esclude il ritorno di Huang; lui si dice pronto a tornare",
+      "summary": "Il 17 novembre Jensen Huang ha parlato per la prima volta dopo le dimissioni: ha ammesso «gravi errori» nella vita privata e ha detto che sarebbe onorato di tornare amministratore delegato. Nelle stesse ore il presidente del consiglio, Harvey Jones, ha detto che il consiglio non intende reintegrarlo. Colette Kress resta amministratrice delegata ad interim e la ricerca del successore è affidata a Heidrick & Struggles. Nvidia ha intanto presentato ricavi trimestrali vicini a 116 miliardi di dollari.",
+      "note": "L'audizione alla Camera del 1° dicembre e un accertamento civile della Sec sono riferiti solo dalle newsletter; il resto è confermato da NPR.",
+      "source": "The Update · The Rundown AI · Horizon AI",
+      "url": "https://www.kunc.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo"
+    },
+    {
+      "k": "Gemini Tasks",
+      "title": "Google rende gratuita in sei Paesi la modalità Tasks di Gemini, che svolge compiti per te",
+      "summary": "Dal 17 novembre la modalità Tasks di Gemini è gratuita per gli utenti maggiorenni di Stati Uniti, Giappone, Corea del Sud, Canada, Australia e India, con il nuovo modello Gemini 4 Hydrogen. Si passa da Chat a Task e l'assistente lavora sui compiti usando le app Google. Le telefonate alle attività, i pagamenti con Google Pay e le richieste via messaggio o email sono invece previsti solo negli Stati Uniti, in inglese.",
+      "note": "Fuori da questi sei Paesi servono i piani a pagamento AI Pro o Ultra.",
+      "source": "Humans at Magica · The Rundown AI",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+      "k": "Microsoft",
+      "title": "Microsoft presenta a Ignite sette nuovi modelli MAI, tra cui Code 2 e Cyber 2 Flash",
+      "summary": "Microsoft ha lanciato a Ignite sette modelli di intelligenza artificiale sviluppati in casa: MAI Code 2 e Code 2 Flash per programmare, MAI Image 2.7 e la versione Flash per le immagini, MAI Cyber 2 Flash per la sicurezza informatica, MAI Realtime 1 e Decision 1.1. Secondo l'azienda offrono prestazioni vicine a quelle dei modelli rivali a prezzi molto più bassi. Cyber 2 Flash è riservato a difensori verificati; i modelli di codice sono già in GitHub Copilot.",
+      "note": "Confronti di prestazioni e prezzi sono dichiarazioni di Microsoft, non verificate da terzi.",
+      "source": "Humans at Magica · The Rundown AI",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+    },
+    {
+      "k": "AI e farmaci",
+      "title": "Isomorphic Labs raccoglie 5 miliardi di dollari per progettare farmaci con l'AI",
+      "summary": "Isomorphic Labs, nata da Google DeepMind, ha annunciato il 17 novembre un finanziamento di serie C da 5 miliardi di dollari guidato da Sequoia Capital e Greenoaks. Il denaro servirà a far crescere la piattaforma che progetta farmaci con l'AI e a portare verso le sperimentazioni cliniche i candidati propri e quelli sviluppati con partner. L'azienda dice che i suoi farmaci per tumori e malattie del sistema immunitario sono vicini alle prove sull'uomo. BioSpace lo definisce il più grande round di venture capital della biotecnologia.",
+      "note": "La valutazione non è stata comunicata; la vicinanza alle prove sull'uomo è una dichiarazione dell'azienda.",
+      "source": "The Rundown AI · Humans at Magica",
+      "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round"
+    },
+    {
+      "k": "Cybersicurezza",
+      "title": "La Nato difende le reti con i modelli di OpenAI: fino a 300 miliardi di token al mese",
+      "summary": "OpenAI ha detto il 17 novembre che l'agenzia informatica della Nato (Ncia) usa i suoi modelli di sicurezza informatica, del programma Daybreak, per proteggere le reti degli alleati, fino a 300 miliardi di token al mese. L'agenzia europea Enisa, secondo OpenAI, ha trovato con questi modelli quattro difetti nei software delle istituzioni Ue, tutti già corretti. Nell'esercitazione Crossed Swords i partecipanti hanno costruito agenti AI per la difesa, sempre con una persona che decide.",
+      "note": "I dati vengono dal comunicato di OpenAI: i 300 miliardi sono un massimo d'uso, non un risultato, e non ho trovato conferme dalla Nato.",
+      "source": "TAAFT · The Rundown AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/"
+    },
+    {
+      "k": "Chatbot e clima",
+      "title": "Chatbot sul clima: rispondono bene all'inizio, ma cedono se l'utente insiste",
+      "summary": "Un rapporto di Unesco e University College London, presentato alla Cop31 di Antalya, ha esaminato 33 modelli di linguaggio e ne ha messi alla prova cinque in 13 lingue. In inglese rispondono correttamente a circa il 90% delle domande sul clima, ma se l'utente contesta più volte una risposta giusta l'accuratezza cala di 31-35 punti e i modelli finiscono per confermare errori. I risultati cambiano anche da lingua a lingua. Il rapporto sconsiglia di usarli per orientare le politiche climatiche.",
+      "note": "Il 90% vale per l'inglese e per le domande neutre; l'Ucl indica per i migliori modelli valori fra l'88% e il 96%.",
+      "source": "Sky TG24 Insider",
+      "url": "https://www.ucl.ac.uk/news/2026/nov/ai-systems-are-easy-pressure-giving-false-climate-information"
+    },
+    {
+      "k": "Musica e AI",
+      "title": "Spotify apre a tutti gli artisti il controllo sulle uscite attribuite al proprio nome",
+      "summary": "Dal 17 novembre tutti gli artisti di Spotify possono usare Artist Profile Protection, lo strumento nato in beta a marzo. Ricevono una notifica quando arriva nuova musica a loro nome e possono toglierla dal profilo: i brani rimossi non compaiono, non contano nelle statistiche e non vengono consigliati agli ascoltatori. Un'impostazione facoltativa permette di approvare le uscite prima che appaiano. Serve contro i falsi creati con l'AI e i brani attribuiti per errore.",
+      "note": "Non ho trovato un comunicato di Spotify per questa estensione: la fonte è la stampa di settore. Il dato di Mindstream su Sony Music, che avrebbe chiesto di rimuovere oltre 260.000 falsi, non l'ho verificato.",
+      "source": "Mindstream",
+      "url": "https://www.musicbusinessworldwide.com/spotify-expands-access-to-artist-profile-protection-letting-all-artists-remove-their-name-from-ai-fakes-and-other-misattributed-releases/"
+    },
+    {
+      "k": "Sicurezza AI",
+      "title": "Test Vals: i modelli AI indicano civili come bersagli militari se si dice che è un gioco",
+      "summary": "La società di valutazioni Vals ha messo alla prova modelli di OpenAI, Anthropic, Google e altri su immagini di droni e satelliti, anche reali, di Ucraina e Iran. Molti modelli hanno individuato come possibili bersagli civili e soldati che si arrendevano, e nessuna richiesta è stata bloccata dai filtri. I modelli OpenAI, che nelle prove normali non sceglievano mai una scuola, con la cornice del «gioco» l'hanno scelta 9, 11 e 13 volte; Claude Opus 5.5 di Anthropic lo ha fatto già nei test normali.",
+      "note": "Test su modelli commerciali, non sulle versioni per i militari. Anthropic dice che gli esempi violano le sue regole e promette nuove protezioni; OpenAI e Google dicono di vietare questi usi.",
+      "source": "Humans at Magica",
+      "url": "https://thenextweb.com/news/ai-models-flagged-civilians-as-military-targets-in-tests-bloomberg-reports"
+    }
+  ],
+  "tools": [
+    {
+      "k": "Agenti AI",
+      "title": "Incredible",
+      "summary": "App per Mac e Windows con agenti AI che lavorano sul tuo computer, nel browser, nei file e nelle app: rispondono alle email, seguono le fatture, aggiornano il CRM. Si comanda a voce o scrivendo e chiede conferma prima di inviare.",
+      "note": "Il sito indica una prova gratuita di 7 giorni; non ho trovato un piano gratuito permanente. I modelli girano nel cloud.",
+      "source": "TAAFT",
+      "url": "https://www.incredible.one/"
+    },
+    {
+      "k": "Assistente",
+      "title": "Notis",
+      "summary": "Assistente AI a cui scrivi o parli da WhatsApp, Telegram, iMessage o email. Si collega a Notion e a oltre 800 app e svolge i compiti che gli affidi con messaggi vocali o scritti.",
+      "note": "Il numero di app è dichiarato dal sito; i prezzi riportati da fonti diverse non coincidono, meglio controllare sul sito.",
+      "source": "TAAFT",
+      "url": "https://notis.ai/"
+    },
+    {
+      "k": "Video",
+      "title": "Aisma",
+      "summary": "Editor video con AI per clip già girate: carichi un filmato da 2 a 60 secondi, descrivi la modifica a parole, per esempio togliere una persona o cambiare un vestito, e ottieni un MP4 con inquadratura e audio originali.",
+      "note": "Funziona a crediti; sul web le prime tre modifiche si preparano prima di comprare, ma i costi per secondo cambiano da una pagina all'altra del sito.",
+      "source": "TAAFT",
+      "url": "https://aisma.ai/"
+    },
+    {
+      "k": "Moda",
+      "title": "Daydream",
+      "summary": "Agente AI per lo shopping di moda: cerca tra oltre 10.000 negozi con il linguaggio naturale, compone outfit, fa provare i capi in modo virtuale e segnala i saldi. Si usa nell'app per iPhone.",
+      "note": "L'acquisto in un clic con conferma viene da notizie di stampa sul lancio del 17 novembre; l'app richiede iOS 26 o successivo.",
+      "source": "Humans at Magica",
+      "url": "https://daydream.ing/"
+    },
+    {
+      "k": "Studio e dati",
+      "title": "Gemini Notebook",
+      "summary": "Nel taccuino di Google scrivi «Make me a site» e una descrizione: lo strumento crea un sito interattivo con i tuoi appunti e le tue fonti, per esempio un ripasso con quiz o una dashboard. Si apre in una nuova scheda e si condivide.",
+      "note": "Disponibile sul web per maggiorenni; l'app per telefono è annunciata ma non ancora uscita. Lo strumento può sbagliare: controlla i risultati.",
+      "source": "Horizon AI",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites"
+    },
+    {
+      "k": "Musica",
+      "title": "Suno Visuals",
+      "summary": "Funzione di Suno che trasforma le canzoni create con l'AI in copertine, video con il testo e clip da 5 a 15 secondi che seguono la struttura del brano e la sincronia labiale. Le clip si possono allungare nell'editor.",
+      "note": "Usa i crediti del tuo abbonamento: i costi vanno controllati sul sito di Suno.",
+      "source": "Humans at Magica · The Rundown AI",
+      "url": "https://suno.com/blog/introducing-visuals"
+    },
+    {
+      "k": "Sviluppo web",
+      "title": "Modern Web Guidance",
+      "summary": "Competenza open source per gli agenti di programmazione come Claude Code o Cursor: li indirizza verso funzioni web moderne, accessibili e sicure invece di codice superato. La versione 1.0 è curata da Chrome, Edge, Firefox e MDN.",
+      "note": "Strumento per sviluppatori, con licenza Apache 2.0; si installa con un comando da terminale.",
+      "source": "TAAFT",
+      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1"
+    },
+    {
+      "k": "CRM e agenti",
+      "title": "Attio",
+      "summary": "CRM con agenti AI personalizzati: li imposti una volta a parole e lavorano su ogni scheda, per esempio individuando le trattative ferme. Ogni agente gira con i permessi di una persona scelta, e ogni esecuzione si può rivedere.",
+      "note": "Era un contenuto sponsorizzato nella newsletter. Il sito avverte che nei flussi di lavoro l'accesso dell'agente può essere più ampio.",
+      "source": "TAAFT",
+      "url": "https://attio.com/platform/custom-agents"
+    },
+    {
+      "k": "Siti web",
+      "title": "Hostinger Connector",
+      "summary": "Estensione ufficiale di Hostinger che collega Claude Code, Cursor e altri editor al tuo account: dalla chat crea il sito, carica i file e restituisce l'indirizzo online. Conviene chiedere prima un piano e approvare ogni passaggio.",
+      "note": "Serve un account Hostinger; per i siti statici carica file già pronti, senza costruzione sul server.",
+      "source": "TAAFT",
+      "url": "https://docs.hostinger.com/hostinger-connector/overview"
+    },
+    {
+      "k": "Sviluppo AI",
+      "title": "Decisions API",
+      "summary": "Interfaccia di OpenAI che restituisce risposte brevi e utilizzabili dalle app invece di testi lunghi: dai testo, immagini o dati e una domanda, e ricevi una scelta fra opzioni, una probabilità o un punteggio.",
+      "note": "Era uno spazio promozionale della newsletter; è uno strumento per sviluppatori e ogni domanda può ricevere un rifiuto invece di una risposta.",
+      "source": "Future Tools",
+      "url": "https://openai.com/index/decisions-api/"
+    }
+  ],
+  "extra": [
+    {
+      "tag": "Attualità",
+      "k": "Revolut Italia",
+      "title": "Revolut Italia sotto amministrazione giudiziaria per un anno: i conti restano attivi",
+      "summary": "Il Tribunale di Milano ha messo per un anno in amministrazione giudiziaria la succursale italiana di Revolut, su richiesta del pm Paolo Storari, per gravi carenze nei controlli antiriciclaggio. Sono stati nominati due amministratori giudiziari. Per i clienti non cambia nulla: conti, carte e app funzionano e i depositi sono garantiti fino a 100.000 euro. Secondo gli inquirenti, i controlli carenti avrebbero permesso movimenti di capitali per 76,5 milioni. Revolut dice che collaborerà con le autorità.",
+      "note": "La misura può essere prorogata fino a due anni in tutto; le fonti danno date diverse per la decisione, il 12 o il 16 novembre.",
+      "source": "Sky TG24 Insider",
+      "url": "https://www.teleborsa.it/News/2026/11/16/revolut-tribunale-di-milano-dispone-l-amministrazione-giudiziaria-gravi-carenze-antiriciclaggio-53.html"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Antibiotico-resistenza",
+      "title": "L'Ecdc avverte: l'Europa rischia di tornare all'era prima degli antibiotici",
+      "summary": "Il Centro europeo per il controllo delle malattie (Ecdc) ha avvertito il 18 novembre che le infezioni da superbatteri resistenti ai farmaci stanno aumentando in alcuni Paesi. Ogni anno oltre 35.000 persone muoiono per resistenza agli antibiotici nell'Unione europea, in Islanda, Liechtenstein e Norvegia, un numero paragonabile alla mortalità di influenza, tubercolosi e Hiv insieme. Senza antibiotici efficaci, trapianti, chemioterapia e terapia intensiva diventerebbero molto più rischiosi.",
+      "note": "L'aumento del 16,4% in sei anni delle infezioni resistenti da un batterio intestinale viene solo dalla newsletter: non l'ho ritrovato.",
+      "source": "The Update",
+      "url": "https://www.euronews.com/2026/11/18/europe-risks-returning-to-pre-antibiotic-era-amid-growing-threat-of-drug-resistant-superbu"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Fondo Nuovi Nati",
+      "title": "Dal 2027 lo Stato versa 100 euro l'anno su un conto Inps per ogni neonato",
+      "summary": "La manovra di bilancio per il 2027 prevede il Fondo Valore Nuovi Nati: per ogni bambino nato dal 1° gennaio 2027 l'Inps apre un conto intestato al minore e lo Stato versa 100 euro l'anno fino ai 18 anni, in tutto 1.800 euro. Spetta senza domanda e, nel testo attuale, senza limiti di Isee; i genitori possono aggiungere somme. A 18 anni il capitale è pensato per confluire nella previdenza complementare. Carlo Cottarelli ne analizza le conseguenze burocratiche.",
+      "note": "È una misura del disegno di legge di Bilancio, non ancora una legge: dettagli e modalità possono cambiare in Parlamento.",
+      "source": "Sky TG24 Insider",
+      "url": "https://quifinanza.it/economia/fondo-nuovi-nati-100-euro-manovra-2027/1021883/"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Cellulari a scuola",
+      "title": "Cellulari vietati a scuola: si recuperano una o due settimane di studio l'anno",
+      "summary": "Uno studio di Harvard su oltre 3,3 milioni di studenti americani di 4.600 scuole ha confrontato i risultati in matematica e lettura prima e dopo l'obbligo di tenere il telefono chiuso a scuola. I divieti rigidi hanno fatto recuperare circa una o due settimane di apprendimento l'anno, più o meno la metà del calo annuale che questi punteggi registrano da oltre un decennio. Il coautore Thomas Kane parla di un effetto positivo ma non risolutivo.",
+      "note": "Un altro studio, del Nber, a tre anni dall'introduzione delle custodie sigillate ha trovato effetti scarsi sul rendimento.",
+      "source": "The Update",
+      "url": "https://www.bostonglobe.com/2026/11/17/metro/school-phone-bans-study/"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Truffa sventata",
+      "title": "Cordenons, la direttrice delle Poste salva un anziano da una truffa da 15 mila euro",
+      "summary": "Un anziano voleva fare alle Poste di Cordenons un bonifico istantaneo da 15 mila euro per pagare presunte visite mediche. La direttrice dell'ufficio, Barbara Di Vita, ha notato la sua agitazione e il fatto che non sapeva dire quali prestazioni dovesse pagare. I sospetti sono cresciuti quando i presunti truffatori, al telefono, hanno ridotto la richiesta da 15 mila a 5 mila euro purché il pagamento fosse immediato. L'uomo ha rinunciato e si è rivolto ai carabinieri.",
+      "note": "Poste Italiane ricorda di diffidare delle richieste urgenti di denaro e di verificare sempre le informazioni prima di pagare.",
+      "source": "Messaggero Veneto",
+      "url": "https://www.messaggeroveneto.it/cronaca/bonifico-finte-visite-mediche-poste-cordenons-salvano-anziano-truffa-xupr3z50"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Carne coltivata",
+      "title": "Upside Foods porta il pollo coltivato nei ristoranti californiani su scala commerciale",
+      "summary": "Il 17 novembre Upside Foods ha annunciato che il suo Upside Chicken, pollo ottenuto da cellule fatte crescere in laboratorio, è ora venduto in ristoranti, mense aziendali e università della California. L'azienda dice che le sue vasche da 20.000 litri possono produrre oltre un milione di libbre l'anno. Il prodotto è un misto: le cellule coltivate sono l'ingrediente principale dopo l'acqua, insieme a proteine vegetali come la soia. Il lancio arriva mentre Florida e Texas hanno vietato la carne coltivata.",
+      "note": "Il milione di libbre è una capacità dichiarata e comprende anche gli ingredienti vegetali, non solo il pollo coltivato.",
+      "source": "The Hustle",
+      "url": "https://www.foodnavigator.com/Article/2026/11/17/upside-foods-launches-cultivated-chicken-at-commercial-scale/"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Fade farm",
+      "title": "Nelle «fade farm» i vestiti nuovi si sbiadiscono al sole per sembrare vintage",
+      "summary": "Secondo il New York Times, in Inghilterra e in Corea del Sud nascono le «fade farm»: campi o tetti dove capi nuovi vengono appesi, spruzzati con acqua salata e asciugati al sole per settimane, per ottenere l'effetto vintage. William Cotterill, di Stockport, usa un terreno di 15 acri: una maglietta nera sbiadita costa circa 60 dollari, contro circa 33 di una normale. Alcuni puristi gridano al «valore rubato»; Cotterill dichiara sull'etichetta come sono fatte.",
+      "note": "L'articolo originale è del New York Times; il link porta a una sua ripubblicazione.",
+      "source": "The Hustle",
+      "url": "https://dnyuz.com/2026/11/04/the-farms-where-vintage-t-shirts-grow/"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Voyager 1",
+      "title": "Voyager 1 arriva a un giorno luce dalla Terra",
+      "summary": "La sonda Voyager 1, lanciata quasi 50 anni fa, raggiunge una distanza dalla Terra di un giorno luce, circa 25,9 miliardi di chilometri: un segnale radio impiega quindi circa 24 ore ad arrivare. La Nasa indica come data il 18 novembre. Il sistema elettrico della sonda è instabile e gran parte degli strumenti è spenta, ma continua a raccogliere dati. Voyager 2 raggiungerà la stessa distanza solo verso novembre 2035.",
+      "note": "Alcune fonti avevano indicato il 15 novembre; non ho trovato un comunicato che confermi il passaggio già avvenuto.",
+      "source": "The Update",
+      "url": "https://svs.gsfc.nasa.gov/15120"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Amazon e pubblicità",
+      "title": "Ftc contro Amazon: sovrapprezzi occulti sulle aste degli annunci, fino al 250%",
+      "summary": "Il 5 novembre la Commissione federale per il commercio (Ftc) e 22 Stati americani hanno reso pubbliche parti prima oscurate della causa contro Amazon: dal 2019, sostengono, l'azienda avrebbe aggiunto in segreto un sovrapprezzo alle aste degli annunci, fino al 250% sopra il risultato dell'asta nei giorni come Prime Day e Black Friday. Amazon contesta. La newsletter nota che servizi ai venditori e pubblicità hanno portato 66,1 miliardi nel terzo trimestre, il 96,6% dei 68,5 miliardi delle vendite dirette.",
+      "note": "Sono accuse, non sentenze. Il rapporto del 96,6% è un calcolo della newsletter sui dati di Amazon.",
+      "source": "AI for Ecommerce and Amazon Sellers",
+      "url": "https://ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Masters di Torino",
+      "title": "Masters di Torino: Alcaraz batte Medvedev ed è in semifinale, c'è anche Zverev",
+      "summary": "Alle Nitto Atp Finals di Torino Carlos Alcaraz ha battuto Daniil Medvedev 6-2 6-4 senza concedere palle break, e si è poi qualificato per le semifinali. Anche Alexander Zverev è tra i semifinalisti. L'italiano Flavio Cobolli è stato battuto da Frances Tiafoe, che ha ottenuto la prima vittoria del torneo; Cobolli giocherà venerdì contro Alcaraz. La newsletter segnala l'undicesima vittoria di fila di Alcaraz, con un fastidio alla coscia sinistra.",
+      "note": "Il risultato di Cobolli-Tiafoe viene dalla pagina dell'Atp: la newsletter lo dava ancora da giocare.",
+      "source": "Sky Sport Insider",
+      "url": "https://www.atptour.com/en/news/alcaraz-medvedev-nitto-atp-finals-2026-wednesday"
+    }
+  ]
+}
