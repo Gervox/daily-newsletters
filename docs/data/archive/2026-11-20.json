@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-20",
+  "edition": "mattina",
+  "newsletters": 24,
+  "news": [
+    {
+      "k": "Gemini 4 Neon",
+      "title": "Google lancia Gemini 4 Neon: terzo in classifica, a 3 dollari per milione di token",
+      "summary": "Il 18 novembre Google ha presentato Gemini 4 Neon, il quarto modello della famiglia Gemini 4 in meno di due mesi. Ha una finestra di contesto da un milione di token e costa 3 dollari per milione di token in ingresso e 15 in uscita. Nella classifica di Artificial Analysis ottiene 61 punti ed è terzo, dietro Claude Fable 5.2 e GPT-6.2 Astra. È disponibile nell'app Gemini per gli abbonati Pro e Ultra e nelle API.",
+      "note": "Prestazioni e confronti con altri modelli sono dichiarati da Google e da Artificial Analysis; non li ho verificati in modo indipendente.",
+      "source": "The Rundown AI · The Code · Humans at Magica · Horizon AI",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "k": "Agenti AI e banche",
+      "title": "Arizona, indagine penale su OpenAI e altre aziende: agenti AI «infiltrati» nelle banche",
+      "summary": "L'ufficio del procuratore generale dell'Arizona ha annunciato il 18 novembre un'indagine penale su OpenAI e altre aziende di intelligenza artificiale per l'apparente infiltrazione di agenti AI nei sistemi delle banche. Non ha detto quali altre aziende o banche siano coinvolte. Intanto le grandi banche americane limitano gli agenti esterni: Citi non li ammette, Bank of America avverte che chi cede le credenziali risponde di ciò che succede, JPMorgan parla di «trasferimento di responsabilità».",
+      "note": "Un'indagine penale non significa che ci saranno accuse. Le regole delle banche vengono da resoconti di stampa: non ho letto i loro contratti.",
+      "source": "Humans at Magica",
+      "url": "https://ca.finance.yahoo.com/news/arizona-says-investigating-openai-other-013631766.html"
+    },
+    {
+      "k": "Sicurezza web",
+      "title": "Un'AI scova in NGINX un difetto nascosto dal 2015: permette di eseguire codice sui server",
+      "summary": "Wiz e altri gruppi di ricerca hanno trovato in NGINX, il server web molto diffuso, difetti gravi nel modo in cui gestisce il protocollo HTTP/2: un aggressore esterno potrebbe eseguire codice sul server senza accedere. Wiz li ha individuati con il suo strumento di analisi del codice basato su AI, e uno risale al 2015. F5 ha già corretto i difetti nelle versioni 1.30.7 e 1.31.9; non risultano attacchi in corso.",
+      "note": "Disattivare HTTP/2 ferma solo due dei cinque difetti rivelati: serve aggiornare. Il dato dei 225 milioni di siti, citato da The Update, non l'ho verificato.",
+      "source": "The Update · The Code",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+    },
+    {
+      "k": "AI e chip",
+      "title": "OpenAI e AMD: l'AI riscrive i circuiti dei chip e guadagna fino al 14%",
+      "summary": "OpenAI dice che i suoi modelli hanno migliorato fino al 14% il progetto del principale chip grafico di AMD, già molto ottimizzato, riscrivendo il codice che descrive i circuiti. Il lavoro vale circa un anno di progressi fatti in meno di cinque mesi, secondo OpenAI. AMD ha inserito alcune modifiche in un progetto già mandato in produzione e ha verificato guadagni di alcuni punti percentuali su parti del prossimo processore.",
+      "note": "I risultati sono dichiarati da OpenAI e non sono stati misurati da terzi; il 14% riguarda consumo, prestazioni e superficie del chip.",
+      "source": "TAAFT",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+    },
+    {
+      "k": "Modelli cinesi",
+      "title": "Casa Bianca e Tesoro valutano l'obbligo di dichiarare l'uso di modelli AI cinesi",
+      "summary": "Secondo Reuters, il Tesoro e l'ufficio scientifico della Casa Bianca hanno discusso di obbligare le aziende americane a indicare sui propri siti quando usano modelli di intelligenza artificiale cinesi, per scoraggiarne l'uso senza vietarlo. Airbnb, per esempio, usa Qwen di Alibaba. In ottobre i tre modelli più usati su OpenRouter, per quantità di token, erano cinesi. Non è chiaro se l'idea diventerà una regola formale.",
+      "note": "È una proposta in discussione, non una norma; Casa Bianca, Tesoro e Alibaba non hanno risposto alle richieste di commento.",
+      "source": "Horizon AI · Humans at Magica",
+      "url": "https://www.theglobeandmail.com/business/article-trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai/"
+    },
+    {
+      "k": "Microsoft e ByteDance",
+      "title": "La Camera Usa chiede a Microsoft conto di un possibile affare da 500 milioni con ByteDance",
+      "summary": "La commissione della Camera dei rappresentanti sulla Cina ha chiesto a Microsoft un incontro informativo su trattative riportate dalla stampa: ByteDance, proprietaria di TikTok, comprerebbe servizi cloud Azure per circa 500 milioni di dollari, soprattutto per usare i modelli di OpenAI. OpenAI limita l'accesso alle aziende cinesi, ma Microsoft può rivenderne i modelli. Il presidente della commissione dice che è inaccettabile che un fornitore del Pentagono venda servizi AI a ByteDance.",
+      "note": "I 500 milioni sono una cifra riportata da The Information; Microsoft non ha confermato le trattative. La richiesta è di informazioni, non un provvedimento.",
+      "source": "Humans at Magica",
+      "url": "https://www.inkl.com/news/us-lawmakers-seek-microsoft-briefing-on-reported-ai-deal-talks-with-bytedance"
+    },
+    {
+      "k": "Nvidia e open source",
+      "title": "Nvidia senza Huang: Kress conferma l'open source e l'acquisto di Hugging Face",
+      "summary": "Nella prima trimestrale senza Jensen Huang, Colette Kress, alla guida ad interim di Nvidia, ha detto che l'azienda continuerà a sostenere i modelli aperti. Ha confermato anche l'acquisto di Hugging Face, la piattaforma dove si condividono modelli AI, che secondo Mindstream vale 12,9 miliardi di dollari. Ha aggiunto che la piattaforma conta oltre 18 milioni di sviluppatori e 200.000 aziende e che i modelli Nemotron sono i modelli aperti americani più usati su OpenRouter.",
+      "note": "Il prezzo di 12,9 miliardi è riportato da Mindstream e da un solo altro sito; l'impegno sull'open source l'ho ritrovato nelle trascrizioni della call.",
+      "source": "Mindstream",
+      "url": "https://fortune.com/2026/11/18/nvidia-earnings-q3-interim-ceo-colette-kress/"
+    },
+    {
+      "k": "Ricerca e AI",
+      "title": "OpenAI estende ChatGPT gratis ai ricercatori: 50.000 nuove borse, domande dal 23 novembre",
+      "summary": "OpenAI amplia il programma ChatGPT per ricercatori universitari con 50.000 nuove borse, che coprono ChatGPT Plus per un ricercatore e fino a due collaboratori: fino a 150.000 persone in questo turno, con l'obiettivo di arrivare a 200.000. Le domande aprono il 23 novembre e le borse vanno in ordine di arrivo, non più per sorteggio. I dati della ricerca non vengono usati per addestrare i modelli, salvo scelta diversa. Dal lancio di luglio hanno aderito 20.000 ricercatori in 33 Paesi.",
+      "note": "Date e condizioni vengono da Mindstream e dalla stampa. Lo studio sui 1.800 ricercatori si basa su risposte dei partecipanti e OpenAI stessa dice che non prova che l'AI acceleri le scoperte.",
+      "source": "Mindstream",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
+    },
+    {
+      "k": "Spesa per l'AI",
+      "title": "Le cinque grandi dell'AI hanno speso 230 miliardi in un trimestre, il 118% in più",
+      "summary": "Un'analisi di Understanding AI con 19 grafici riporta che Meta, Amazon, Oracle, Google e Microsoft hanno investito circa 230 miliardi di dollari nel terzo trimestre del 2026: il 118% in più dello stesso periodo del 2025. Nei primi nove mesi dell'anno la spesa vale il 2,3% del Pil americano. Amazon, Google, Meta e Oracle spendono più di quanto incassano dall'attività e ricorrono a debito e nuove azioni. I ricavi dell'AI, però, crescono più in fretta degli investimenti.",
+      "note": "Sono stime di analisti e dell'autore. La tesi che il rischio di bolla sia minore di un anno fa è una valutazione dell'autore e resta discussa.",
+      "source": "Understanding AI",
+      "url": "https://www.understandingai.org/p/19-charts-that-explain-the-state"
+    },
+    {
+      "k": "AI e storia",
+      "title": "Gemini decifra una lettera segreta del 1466 rimasta illeggibile per 560 anni",
+      "summary": "Secondo l'esperimento raccontato dal ricercatore fofr, Gemini ha letto una lettera cifrata scritta nel 1466 da un inviato al giovane duca di Milano, Galeazzo Maria Sforza. Dopo 71 tentativi falliti di decifrazione, l'AI ha cercato la chiave negli archivi digitali e l'ha trovata, in meno di un'ora, in un registro conservato a Vienna. Il testo parla di un complotto contro un uomo che aveva aiutato il duca e del progetto di un re di combinare tre matrimoni fra famiglie reali.",
+      "note": "Il racconto viene dal blog dell'autore, l'unica fonte trovata, che indica il modello Gemini 4 Carbon; non ho trovato conferme di storici o di archivi.",
+      "source": "TAAFT",
+      "url": "https://www.fofr.ai/bianco-1466-cipher"
+    }
+  ],
+  "tools": [
+    {
+      "k": "Newsletter",
+      "title": "inread",
+      "summary": "Lettore di newsletter con un indirizzo tutto suo: ci iscrivi newsletter, podcast e feed e li leggi in un'app pulita, senza i pixel che segnalano le aperture. Le sottolineature si esportano in Markdown. Il piano gratuito arriva a 50 fonti.",
+      "note": "Funzioni e limiti vengono dal sito del prodotto; non ho trovato recensioni indipendenti.",
+      "source": "The Update",
+      "url": "https://inread.app/"
+    },
+    {
+      "k": "Meteo",
+      "title": "Skysoon",
+      "summary": "App per iPhone che mostra il meteo come conto alla rovescia: quanti minuti mancano alla pioggia, quante ore al tramonto, con una sola striscia luminosa che si accorcia. Non chiede registrazione e dichiara di non avere pubblicità né tracciamento.",
+      "note": "Solo iPhone; i dati vengono dal meteo di Apple. Avvisi e widget richiedono lo sblocco a pagamento Skysoon+.",
+      "source": "The Update",
+      "url": "https://skysoon.app/"
+    },
+    {
+      "k": "Bambini",
+      "title": "Bearrr",
+      "summary": "App che trasforma la routine del bambino in una tabella di figure: mostra un passo alla volta, senza testo, e assegna una stella per ogni passo fatto. Pensata per chi non sa ancora leggere bene. Con quindici stelle si sblocca una figurina da collezione.",
+      "note": "Il sito indica un'età da 3 a 8 anni; non ho trovato conferma che l'app sia in italiano, come scrive The Update.",
+      "source": "The Update",
+      "url": "https://bearrr.app/"
+    },
+    {
+      "k": "App senza codice",
+      "title": "Archie",
+      "summary": "Piattaforma che prima ti fa costruire in chat il piano dell'app (moduli, tipi di utenti, servizi) e poi genera da quel piano un prototipo e l'applicazione completa, con database e accessi. Serve a smettere di rifare prompt a vuoto.",
+      "note": "Il piano gratuito dà crediti giornalieri limitati e permette piano e prototipo; per pubblicare l'app serve un abbonamento.",
+      "source": "TAAFT",
+      "url": "https://www.archie.com/"
+    },
+    {
+      "k": "Video",
+      "title": "Mochine",
+      "summary": "Editor video di Wistia che si usa in chat: carichi le riprese in cui parli e ottieni un montaggio con grafiche animate in stile coerente con il tuo marchio. Ogni taglio si cambia chiedendolo a parole.",
+      "note": "Funziona a crediti: una recensione indica piani da 22,50 dollari per 5.000 crediti. Esporta fino a 1080p.",
+      "source": "TAAFT",
+      "url": "https://mochine.ai/"
+    },
+    {
+      "k": "Musica",
+      "title": "Pixo",
+      "summary": "Crea un videoclip a partire da una canzone: analizza sezioni, testo e voci, prepara una storyboard che puoi modificare e genera le scene, con cantanti dalle labbra sincronizzate anche nei duetti. Parti dal brano o dal testo.",
+      "note": "Secondo il sito gli account nuovi partono con 200 crediti gratuiti; funzioni e limiti sono dichiarati dal produttore.",
+      "source": "TAAFT",
+      "url": "https://pixo.video/"
+    },
+    {
+      "k": "Assistente privato",
+      "title": "Lumo Desktop",
+      "summary": "App di Proton per Windows, Mac e Linux: l'assistente AI lavora su file, posta e altri strumenti del computer e può eseguire compiti programmati, come un riepilogo settimanale delle email. Per ogni azione scegli se è automatica, da approvare o vietata.",
+      "note": "Proton dichiara che le chat salvate sono cifrate e non leggibili da loro; per la posta di Proton serve il programma Proton Mail Bridge.",
+      "source": "TAAFT",
+      "url": "https://proton.me/blog/lumo-desktop-features"
+    },
+    {
+      "k": "Chiamate",
+      "title": "Bluedot",
+      "summary": "Registra e trascrive le telefonate fatte dal tuo numero, oltre alle riunioni, e passa note e trascrizioni a Claude o ChatGPT perché il seguito parta da ciò che è stato detto. Da computer registra anche chiamate WhatsApp o incontri di persona.",
+      "note": "La registrazione delle chiamate è una funzione nuova: avvisa l'altra persona, perché le regole cambiano da Paese a Paese. Il collegamento con Claude e ChatGPT sembra riservato ai piani a pagamento.",
+      "source": "TAAFT",
+      "url": "https://www.bluedothq.com/"
+    },
+    {
+      "k": "Pianificazione",
+      "title": "Athena",
+      "summary": "Assistente per organizzare la giornata: ogni mattina prepara un breve resoconto su ciò che merita attenzione e, se descrivi un obiettivo a parole, propone un piano con data finale, tappe e primi passi. Non salva nulla senza la tua approvazione.",
+      "note": "Esistono altre app chiamate Athena: questa è quella del sito athenaos.net. Funzioni dichiarate dal produttore nelle note di versione del 18 novembre.",
+      "source": "TAAFT",
+      "url": "https://athenaos.net/"
+    },
+    {
+      "k": "Segnalibri",
+      "title": "Fabric",
+      "summary": "Spazio di lavoro con AI per salvare articoli, immagini e idee. La novità è l'estensione per Safari e Firefox, oltre a quella per Chrome: con un clic salvi la pagina o solo il testo scelto, fai schermate, evidenzi e lasci note sulle pagine.",
+      "note": "Funzioni descritte dal produttore; non ho verificato prezzi e piani.",
+      "source": "Fabric",
+      "url": "https://fabric.so/download/web-clipper"
+    }
+  ],
+  "extra": [
+    {
+      "tag": "Attualità",
+      "k": "Vertice a Shenzhen",
+      "title": "Vertice Trump-Xi-Putin a Shenzhen: 80 minuti, una dichiarazione comune e nessuna svolta",
+      "summary": "Il 19 novembre a Shenzhen, a margine del vertice Apec, Donald Trump, Xi Jinping e Vladimir Putin si sono incontrati per la prima volta tutti e tre: l'incontro è durato circa 80 minuti, in una villa sul lago. È uscita una dichiarazione comune su riduzione dei rischi nucleari e critiche alla Corte penale internazionale, ma nessuna intesa concreta sul controllo degli armamenti né passi avanti sull'Ucraina. Per gli analisti il maggiore beneficiario è Putin.",
+      "note": "Sono i primi resoconti del 19 novembre; Trump ha promesso una conferenza stampa alla Casa Bianca venerdì, che potrebbe aggiungere dettagli.",
+      "source": "Sky TG24 Insider",
+      "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Debito mondiale",
+      "title": "Fmi: il debito pubblico mondiale sta per toccare il 100% del Pil, record dal dopoguerra",
+      "summary": "In un intervento ai leader riuniti a Shenzhen per l'Apec, il Fondo monetario internazionale ha avvertito che il debito pubblico mondiale sta per toccare il 100% del Pil, il livello più alto dalla Seconda guerra mondiale, e che serve attenzione urgente ai conti pubblici. Nello stesso intervento ha definito il 2026 il primo anno in cui l'AI incide in modo tangibile sulla crescita mondiale, compensando il rincaro dell'energia causato dalla guerra in Medio Oriente.",
+      "note": "Le parole dell'intervento vengono da due resoconti di MercoPress: non ho trovato il testo integrale.",
+      "source": "The Update",
+      "url": "https://en.mercopress.com/2026/11/19/imf-warns-global-debt-will-soon-reach-100-of-gdp-the-highest-since-world-war-ii"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Corrado Augias",
+      "title": "È morto Corrado Augias: il giornalista e divulgatore aveva 91 anni",
+      "summary": "Corrado Augias è morto il 19 novembre a 91 anni. Nato a Roma nel 1935, giornalista, scrittore e autore televisivo, era entrato in Rai nel 1960 ed è stato noto per «Telefono giallo» e, negli ultimi anni, per «La Torre di Babele» su La7. Il Quirinale lo ha ricordato come giornalista libero e scrittore di grande raffinatezza. Il Messaggero Veneto sottolinea il suo legame con il Friuli Venezia Giulia, da Pordenonelegge a èStoria a Gorizia.",
+      "note": "",
+      "source": "Messaggero Veneto",
+      "url": "https://tg24.sky.it/cronaca/2026/11/19/corrado-augias-morto"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Casa Cosattini",
+      "title": "Udine, Casa Cosattini rinasce con 1,8 milioni e diventerà un polo culturale",
+      "summary": "La Regione ha stanziato 1,8 milioni di euro per l'acquisto e il recupero di Casa Cosattini-Jacchia, villa di inizio Novecento in via Cairoli a Udine, che fu devastata da squadristi fascisti nel 1926. L'Associazione Partigiani Osoppo Friuli ne farà la propria sede, con la biblioteca-archivio Renato Del Din e uno spazio dedicato a Graziella Jacchia Cosattini. Il primo lotto riguarda piano terra, edifici annessi e giardino; i lavori potrebbero partire in primavera.",
+      "note": "Il Messaggero Veneto parla di finanziamento regionale; le altre fonti precisano che i fondi hanno permesso all'associazione di comprare l'edificio.",
+      "source": "Messaggero Veneto",
+      "url": "https://www.diariofvg.it/2026/11/19/recupero-casa-cosattini-udine/"
+    },
+    {
+      "tag": "Attualità",
+      "k": "Satellite Terra",
+      "title": "La Nasa chiude il satellite Terra dopo 27 anni: gli ultimi dati il 1° dicembre",
+      "summary": "La Nasa smetterà di raccogliere dati scientifici con il satellite Terra il 1° dicembre, dopo 27 anni di osservazione del clima e della Terra. Lanciato nel dicembre 1999 per una missione prevista di sei anni, ha ormai poco carburante: quello rimasto servirà ad abbassare l'orbita prima dello spegnimento. A bordo ha cinque strumenti e alcuni erano già spenti per risparmiare energia. I dati restano a disposizione di tutti.",
+      "note": "Una fonte indica lo spegnimento completo dei sistemi a gennaio 2027; una vecchia pagina della Nasa dava febbraio 2027 come fine delle attività scientifiche.",
+      "source": "The Update",
+      "url": "https://science.nasa.gov/blogs/science-news/2026/11/17/nasas-terra-mission-to-end/"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "Farmaci e spesa",
+      "title": "Farmaci anti-obesità e spesa: nel Regno Unito 415 milioni di prodotti in meno nel carrello",
+      "summary": "Secondo Worldpanel, nell'anno dopo l'inizio della cura le famiglie britanniche con almeno una persona che usa farmaci GLP-1 hanno comprato 415 milioni di prodotti alimentari in meno e speso 389 sterline in meno rispetto a famiglie simili: in tutto oltre un miliardo di sterline. A giugno il calo era di 300 milioni di prodotti. Su alcolici e patatine il taglio è del 15% più forte. Le famiglie con un utilizzatore sono salite dal 6,3% di febbraio all'8,5% di agosto.",
+      "note": "Sono stime di una sola società, basate su un campione di 9.629 famiglie.",
+      "source": "The Update",
+      "url": "https://www.thegrocer.co.uk/news/weight-loss-drugs-cut-uk-grocery-spend-by-1bn/726057.article"
+    },
+    {
+      "tag": "Tendenze",
+      "k": "GTA VI",
+      "title": "GTA VI esce dopo 13 anni: 99 su Metacritic e oltre 1,5 miliardi di prenotazioni",
+      "summary": "Il 19 novembre è uscito Grand Theft Auto VI, tredici anni dopo il capitolo precedente. Su Metacritic ha 99 su 100, pari al record assoluto del sito, sulla base di circa 150 recensioni. Le prenotazioni stimate superano 1,5 miliardi di dollari. The Hustle scherza sui fan assenti dal lavoro per la cosiddetta «GTA flu»: chi ha giocato dalla mezzanotte oggi potrebbe essere in malattia.",
+      "note": "Le cifre delle vendite variano fra le fonti, da 1,5 a 1,65 miliardi; i punteggi possono cambiare con nuove recensioni.",
+      "source": "The Hustle · Mindstream",
+      "url": "https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Acoustic Kitty",
+      "title": "La CIA spese circa 20 milioni per trasformare un gatto in una spia, ma non funzionò",
+      "summary": "Negli anni Sessanta la CIA provò a trasformare un gatto in un microfono vivente: un microfono nel condotto dell'orecchio, un trasmettitore alla base del cranio e un filo nel pelo. Il progetto, chiamato Acoustic Kitty, sarebbe costato circa 20 milioni di dollari e fu chiuso nel 1967 perché il gatto era difficile da controllare. Secondo un racconto, durante la prima prova fu investito da un taxi.",
+      "note": "L'episodio del taxi è raccontato da un ex funzionario ed è contestato da un tecnico della CIA, secondo cui il gatto sopravvisse; la cifra varia fra 15 e 20 milioni.",
+      "source": "Mindstream",
+      "url": "https://www.history.com/articles/cia-spy-cat-espionage-fail"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Ponte per animali",
+      "title": "California, il più grande ponte per animali del mondo apre il 2 dicembre sulla 101",
+      "summary": "Il Wallis Annenberg Wildlife Crossing, un ponte sopra le dieci corsie della superstrada 101 ad Agoura Hills, vicino a Los Angeles, sarà inaugurato il 2 dicembre. È costato circa 114 milioni di dollari e servirà a far attraversare in sicurezza puma e altri animali. Secondo The Hustle, in California i veicoli uccidono più di 780 puma all'anno. Alcuni coyote hanno già usato la struttura prima dell'apertura.",
+      "note": "Il primato di ponte più grande del mondo è dichiarato da The Hustle e dalla stampa locale. Il recinto lungo la superstrada non è ancora finito: i lavori continuano dopo l'apertura.",
+      "source": "The Hustle",
+      "url": "https://ktla.com/news/local-news/annenberg-wildlife-crossing-opening-date/"
+    },
+    {
+      "tag": "Curiosità",
+      "k": "Incidente a Manzano",
+      "title": "Incidente a Manzano: nell'auto 12 mila euro, sette portafogli e 13 blocchetti di assegni",
+      "summary": "Durante i rilievi per uno scontro fra un'auto e un autobus a Manzano, in provincia di Udine, i carabinieri hanno ispezionato una borsa nella vettura e vi hanno trovato oltre 12 mila euro in contanti, sette portafogli e tredici blocchetti di assegni. Il conducente, un imprenditore di 39 anni del Cividalese, è stato denunciato per ricettazione. Non ci sono feriti. Il materiale è stato sequestrato e si cerca di risalire ai proprietari.",
+      "note": "È una denuncia, non una condanna. La newsletter parlava di Cividale: l'incidente è avvenuto a Manzano, mentre l'imprenditore è residente nel Cividalese.",
+      "source": "Messaggero Veneto",
+      "url": "https://www.messaggeroveneto.it/cronaca/manzano-incidente-imprenditore-denunciato-ricettazione-contanti-n48r80t1"
+    }
+  ]
+}
